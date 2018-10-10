@@ -29594,6 +29594,7 @@ var csv = [
 //if the object is not specified, it will return an empty object
 
 function lookupDx(dx, ogObject){
+  var dx = document.getElementById('dx');
   if(!dx){
     return {};
   } else if(!ogObject) {
@@ -29605,5 +29606,3 @@ function lookupDx(dx, ogObject){
   }
   return 'Not a recognized CMS Comorbidity Code';
 }
-
-lookupDx('F71', csv);
