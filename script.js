@@ -29601,7 +29601,11 @@ function lookupDx(dx, ogObject){
     return {};
   }
   for(var i = 0; i < ogObject.length; i++){
-    if(dx === ogObject[i]['ICD_10_CM_DIAGNOSIS']){return ogObject[i]
+    if(dx === ogObject[i]['ICD_10_CM_DIAGNOSIS']){
+      document.getElementById("ICD_10_CM_DIAGNOSIS").innerHTML = ogObject[i]['ICD_10_CM_DIAGNOSIS'];
+      document.getElementById("ICD_10_CM_DIAGNOSIS").innerHTML = ogObject[i]['DESCRIPTOR'];
+      document.getElementById("ICD_10_CM_DIAGNOSIS").innerHTML = ogObject[i]['Type'];
+
     }
   }
   return 'Not a recognized CMS Comorbidity Code';

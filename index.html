@@ -3,15 +3,28 @@
 <head>
 <meta charset="UTF=8">
 <title>CMS Psychiatric Comorbidity Lookup</title>
+<link rel="stylesheet" href="style.css">
 <script src="script.js"></script>
 </head>
 <body>
+
   <h2>CMS Psychiatric Comorbidity Lookup</h2>
   Enter the diagnosis code (ICD-10):<input type="text" id="dx"><br>
-  <h2> = <span id=""></span></h2>
+
+  <h2>DX Info </h2>
+  <br>
+  <table style="width:400px" id="dx_info">
+    <tr>
+      <th>ICD 10 CM DIAGNOSIS</th>
+      <th>DESCRIPTOR</th>
+      <th>TYPE</th>
+    </tr>
+    <tr>
+      <td id="ICD_10_CM_DIAGNOSIS"></td>
+      <td id="DESCRIPTOR"></td>
+      <td id="Type"></td>
+    </tr>
+  </table>
+
 </body>
-
-
-
-
 </html>
