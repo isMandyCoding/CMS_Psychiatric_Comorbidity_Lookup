@@ -2014,7 +2014,7 @@ var csv = [
     "Type": "Oncology Treatment Proc"
   },
   {
-    "ICD_10_CM_DIAGNOSIS": "3E0DX05",
+    "ICD_10_CM_DIAGNOSIS": "3E0diagnosisCode05",
     "DESCRIPTOR": "Introduction of Other Antineoplastic into Mouth and Pharynx, External Approach",
     "Yes": "Yes",
     "Type": "Oncology Treatment Proc"
@@ -12835,9103 +12835,9103 @@ var csv = [
     "ICD_10_CM_DIAGNOSIS": "C000",
     "DESCRIPTOR": "Malignant neoplasm of external upper lip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C001",
     "DESCRIPTOR": "Malignant neoplasm of external lower lip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C003",
     "DESCRIPTOR": "Malignant neoplasm of upper lip, inner aspect",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C004",
     "DESCRIPTOR": "Malignant neoplasm of lower lip, inner aspect",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C006",
     "DESCRIPTOR": "Malignant neoplasm of commissure of lip, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C008",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of lip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C01",
     "DESCRIPTOR": "Malignant neoplasm of base of tongue",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C020",
     "DESCRIPTOR": "Malignant neoplasm of dorsal surface of tongue",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C021",
     "DESCRIPTOR": "Malignant neoplasm of border of tongue",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C022",
     "DESCRIPTOR": "Malignant neoplasm of ventral surface of tongue",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C023",
     "DESCRIPTOR": "Malignant neoplasm of anterior two-thirds of tongue, part unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C024",
     "DESCRIPTOR": "Malignant neoplasm of lingual tonsil",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C028",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of tongue",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C030",
     "DESCRIPTOR": "Malignant neoplasm of upper gum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C031",
     "DESCRIPTOR": "Malignant neoplasm of lower gum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C040",
     "DESCRIPTOR": "Malignant neoplasm of anterior floor of mouth",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C041",
     "DESCRIPTOR": "Malignant neoplasm of lateral floor of mouth",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C048",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of floor of mouth",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C050",
     "DESCRIPTOR": "Malignant neoplasm of hard palate",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C051",
     "DESCRIPTOR": "Malignant neoplasm of soft palate",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C052",
     "DESCRIPTOR": "Malignant neoplasm of uvula",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C058",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of palate",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C060",
     "DESCRIPTOR": "Malignant neoplasm of cheek mucosa",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C061",
     "DESCRIPTOR": "Malignant neoplasm of vestibule of mouth",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C062",
     "DESCRIPTOR": "Malignant neoplasm of retromolar area",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C0680",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of unspecified parts of mouth",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C0689",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of other parts of mouth",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C07",
     "DESCRIPTOR": "Malignant neoplasm of parotid gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C080",
     "DESCRIPTOR": "Malignant neoplasm of submandibular gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C081",
     "DESCRIPTOR": "Malignant neoplasm of sublingual gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C089",
     "DESCRIPTOR": "Malignant neoplasm of major salivary gland, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C090",
     "DESCRIPTOR": "Malignant neoplasm of tonsillar fossa",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C091",
     "DESCRIPTOR": "Malignant neoplasm of tonsillar pillar (anterior) (posterior)",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C098",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of tonsil",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C099",
     "DESCRIPTOR": "Malignant neoplasm of tonsil, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C100",
     "DESCRIPTOR": "Malignant neoplasm of vallecula",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C101",
     "DESCRIPTOR": "Malignant neoplasm of anterior surface of epiglottis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C102",
     "DESCRIPTOR": "Malignant neoplasm of lateral wall of oropharynx",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C103",
     "DESCRIPTOR": "Malignant neoplasm of posterior wall of oropharynx",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C104",
     "DESCRIPTOR": "Malignant neoplasm of branchial cleft",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C108",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of oropharynx",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C109",
     "DESCRIPTOR": "Malignant neoplasm of oropharynx, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C110",
     "DESCRIPTOR": "Malignant neoplasm of superior wall of nasopharynx",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C111",
     "DESCRIPTOR": "Malignant neoplasm of posterior wall of nasopharynx",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C112",
     "DESCRIPTOR": "Malignant neoplasm of lateral wall of nasopharynx",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C113",
     "DESCRIPTOR": "Malignant neoplasm of anterior wall of nasopharynx",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C118",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of nasopharynx",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C119",
     "DESCRIPTOR": "Malignant neoplasm of nasopharynx, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C12",
     "DESCRIPTOR": "Malignant neoplasm of pyriform sinus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C130",
     "DESCRIPTOR": "Malignant neoplasm of postcricoid region",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C131",
     "DESCRIPTOR": "Malignant neoplasm of aryepiglottic fold, hypopharyngeal aspect",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C132",
     "DESCRIPTOR": "Malignant neoplasm of posterior wall of hypopharynx",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C138",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of hypopharynx",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C139",
     "DESCRIPTOR": "Malignant neoplasm of hypopharynx, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C140",
     "DESCRIPTOR": "Malignant neoplasm of pharynx, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C142",
     "DESCRIPTOR": "Malignant neoplasm of Waldeyer's ring",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C148",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of lip, oral cavity and pharynx",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C153",
     "DESCRIPTOR": "Malignant neoplasm of upper third of esophagus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C154",
     "DESCRIPTOR": "Malignant neoplasm of middle third of esophagus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C155",
     "DESCRIPTOR": "Malignant neoplasm of lower third of esophagus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C158",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of esophagus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C159",
     "DESCRIPTOR": "Malignant neoplasm of esophagus, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C160",
     "DESCRIPTOR": "Malignant neoplasm of cardia",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C161",
     "DESCRIPTOR": "Malignant neoplasm of fundus of stomach",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C162",
     "DESCRIPTOR": "Malignant neoplasm of body of stomach",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C163",
     "DESCRIPTOR": "Malignant neoplasm of pyloric antrum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C164",
     "DESCRIPTOR": "Malignant neoplasm of pylorus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C165",
     "DESCRIPTOR": "Malignant neoplasm of lesser curvature of stomach, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C166",
     "DESCRIPTOR": "Malignant neoplasm of greater curvature of stomach, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C168",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of stomach",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C169",
     "DESCRIPTOR": "Malignant neoplasm of stomach, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C170",
     "DESCRIPTOR": "Malignant neoplasm of duodenum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C171",
     "DESCRIPTOR": "Malignant neoplasm of jejunum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C172",
     "DESCRIPTOR": "Malignant neoplasm of ileum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C173",
     "DESCRIPTOR": "Meckel's diverticulum, malignant",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C178",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of small intestine",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C179",
     "DESCRIPTOR": "Malignant neoplasm of small intestine, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C180",
     "DESCRIPTOR": "Malignant neoplasm of cecum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C181",
     "DESCRIPTOR": "Malignant neoplasm of appendix",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C182",
     "DESCRIPTOR": "Malignant neoplasm of ascending colon",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C183",
     "DESCRIPTOR": "Malignant neoplasm of hepatic flexure",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C184",
     "DESCRIPTOR": "Malignant neoplasm of transverse colon",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C185",
     "DESCRIPTOR": "Malignant neoplasm of splenic flexure",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C186",
     "DESCRIPTOR": "Malignant neoplasm of descending colon",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C187",
     "DESCRIPTOR": "Malignant neoplasm of sigmoid colon",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C188",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of colon",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C189",
     "DESCRIPTOR": "Malignant neoplasm of colon, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C19",
     "DESCRIPTOR": "Malignant neoplasm of rectosigmoid junction",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C20",
     "DESCRIPTOR": "Malignant neoplasm of rectum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C210",
     "DESCRIPTOR": "Malignant neoplasm of anus, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C211",
     "DESCRIPTOR": "Malignant neoplasm of anal canal",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C212",
     "DESCRIPTOR": "Malignant neoplasm of cloacogenic zone",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C218",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of rectum, anus and anal canal",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C220",
     "DESCRIPTOR": "Liver cell carcinoma",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C221",
     "DESCRIPTOR": "Intrahepatic bile duct carcinoma",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C222",
     "DESCRIPTOR": "Hepatoblastoma",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C223",
     "DESCRIPTOR": "Angiosarcoma of liver",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C224",
     "DESCRIPTOR": "Other sarcomas of liver",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C227",
     "DESCRIPTOR": "Other specified carcinomas of liver",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C228",
     "DESCRIPTOR": "Malignant neoplasm of liver, primary, unspecified as to type",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C229",
     "DESCRIPTOR": "Malignant neoplasm of liver, not specified as primary or secondary",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C23",
     "DESCRIPTOR": "Malignant neoplasm of gallbladder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C240",
     "DESCRIPTOR": "Malignant neoplasm of extrahepatic bile duct",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C241",
     "DESCRIPTOR": "Malignant neoplasm of ampulla of Vater",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C248",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of biliary tract",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C249",
     "DESCRIPTOR": "Malignant neoplasm of biliary tract, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C250",
     "DESCRIPTOR": "Malignant neoplasm of head of pancreas",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C251",
     "DESCRIPTOR": "Malignant neoplasm of body of pancreas",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C252",
     "DESCRIPTOR": "Malignant neoplasm of tail of pancreas",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C253",
     "DESCRIPTOR": "Malignant neoplasm of pancreatic duct",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C254",
     "DESCRIPTOR": "Malignant neoplasm of endocrine pancreas",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C257",
     "DESCRIPTOR": "Malignant neoplasm of other parts of pancreas",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C258",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of pancreas",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C259",
     "DESCRIPTOR": "Malignant neoplasm of pancreas, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C260",
     "DESCRIPTOR": "Malignant neoplasm of intestinal tract, part unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C261",
     "DESCRIPTOR": "Malignant neoplasm of spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C269",
     "DESCRIPTOR": "Malignant neoplasm of ill-defined sites within the digestive system",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C300",
     "DESCRIPTOR": "Malignant neoplasm of nasal cavity",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C301",
     "DESCRIPTOR": "Malignant neoplasm of middle ear",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C310",
     "DESCRIPTOR": "Malignant neoplasm of maxillary sinus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C311",
     "DESCRIPTOR": "Malignant neoplasm of ethmoidal sinus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C312",
     "DESCRIPTOR": "Malignant neoplasm of frontal sinus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C313",
     "DESCRIPTOR": "Malignant neoplasm of sphenoid sinus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C318",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of accessory sinuses",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C319",
     "DESCRIPTOR": "Malignant neoplasm of accessory sinus, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C320",
     "DESCRIPTOR": "Malignant neoplasm of glottis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C321",
     "DESCRIPTOR": "Malignant neoplasm of supraglottis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C322",
     "DESCRIPTOR": "Malignant neoplasm of subglottis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C323",
     "DESCRIPTOR": "Malignant neoplasm of laryngeal cartilage",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C328",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of larynx",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C329",
     "DESCRIPTOR": "Malignant neoplasm of larynx, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C33",
     "DESCRIPTOR": "Malignant neoplasm of trachea",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C3400",
     "DESCRIPTOR": "Malignant neoplasm of unspecified main bronchus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C3401",
     "DESCRIPTOR": "Malignant neoplasm of right main bronchus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C3402",
     "DESCRIPTOR": "Malignant neoplasm of left main bronchus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C3410",
     "DESCRIPTOR": "Malignant neoplasm of upper lobe, unspecified bronchus or lung",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C3411",
     "DESCRIPTOR": "Malignant neoplasm of upper lobe, right bronchus or lung",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C3412",
     "DESCRIPTOR": "Malignant neoplasm of upper lobe, left bronchus or lung",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C342",
     "DESCRIPTOR": "Malignant neoplasm of middle lobe, bronchus or lung",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C3430",
     "DESCRIPTOR": "Malignant neoplasm of lower lobe, unspecified bronchus or lung",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C3431",
     "DESCRIPTOR": "Malignant neoplasm of lower lobe, right bronchus or lung",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C3432",
     "DESCRIPTOR": "Malignant neoplasm of lower lobe, left bronchus or lung",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C3480",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of unspecified bronchus and lung",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C3481",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of right bronchus and lung",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C3482",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of left bronchus and lung",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C3491",
     "DESCRIPTOR": "Malignant neoplasm of unspecified part of right bronchus or lung",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C3492",
     "DESCRIPTOR": "Malignant neoplasm of unspecified part of left bronchus or lung",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C37",
     "DESCRIPTOR": "Malignant neoplasm of thymus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C380",
     "DESCRIPTOR": "Malignant neoplasm of heart",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C381",
     "DESCRIPTOR": "Malignant neoplasm of anterior mediastinum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C382",
     "DESCRIPTOR": "Malignant neoplasm of posterior mediastinum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C383",
     "DESCRIPTOR": "Malignant neoplasm of mediastinum, part unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C384",
     "DESCRIPTOR": "Malignant neoplasm of pleura",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C388",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of heart, mediastinum and pleura",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C390",
     "DESCRIPTOR": "Malignant neoplasm of upper respiratory tract, part unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C399",
     "DESCRIPTOR": "Malignant neoplasm of lower respiratory tract, part unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4001",
     "DESCRIPTOR": "Malignant neoplasm of scapula and long bones of right upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4002",
     "DESCRIPTOR": "Malignant neoplasm of scapula and long bones of left upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4011",
     "DESCRIPTOR": "Malignant neoplasm of short bones of right upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4012",
     "DESCRIPTOR": "Malignant neoplasm of short bones of left upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4021",
     "DESCRIPTOR": "Malignant neoplasm of long bones of right lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4022",
     "DESCRIPTOR": "Malignant neoplasm of long bones of left lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4031",
     "DESCRIPTOR": "Malignant neoplasm of short bones of right lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4032",
     "DESCRIPTOR": "Malignant neoplasm of short bones of left lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4081",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of bone and articular cartilage of right limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4082",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of bone and articular cartilage of left limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4091",
     "DESCRIPTOR": "Malignant neoplasm of unspecified bones and articular cartilage of right limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4092",
     "DESCRIPTOR": "Malignant neoplasm of unspecified bones and articular cartilage of left limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C410",
     "DESCRIPTOR": "Malignant neoplasm of bones of skull and face",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C411",
     "DESCRIPTOR": "Malignant neoplasm of mandible",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C412",
     "DESCRIPTOR": "Malignant neoplasm of vertebral column",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C413",
     "DESCRIPTOR": "Malignant neoplasm of ribs, sternum and clavicle",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C414",
     "DESCRIPTOR": "Malignant neoplasm of pelvic bones, sacrum and coccyx",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C419",
     "DESCRIPTOR": "Malignant neoplasm of bone and articular cartilage, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C430",
     "DESCRIPTOR": "Malignant melanoma of lip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4311",
     "DESCRIPTOR": "Malignant melanoma of right eyelid, including canthus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4312",
     "DESCRIPTOR": "Malignant melanoma of left eyelid, including canthus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4321",
     "DESCRIPTOR": "Malignant melanoma of right ear and external auricular canal",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4322",
     "DESCRIPTOR": "Malignant melanoma of left ear and external auricular canal",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4330",
     "DESCRIPTOR": "Malignant melanoma of unspecified part of face",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4331",
     "DESCRIPTOR": "Malignant melanoma of nose",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4339",
     "DESCRIPTOR": "Malignant melanoma of other parts of face",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C434",
     "DESCRIPTOR": "Malignant melanoma of scalp and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4351",
     "DESCRIPTOR": "Malignant melanoma of anal skin",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4352",
     "DESCRIPTOR": "Malignant melanoma of skin of breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4359",
     "DESCRIPTOR": "Malignant melanoma of other part of trunk",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4361",
     "DESCRIPTOR": "Malignant melanoma of right upper limb, including shoulder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4362",
     "DESCRIPTOR": "Malignant melanoma of left upper limb, including shoulder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4371",
     "DESCRIPTOR": "Malignant melanoma of right lower limb, including hip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4372",
     "DESCRIPTOR": "Malignant melanoma of left lower limb, including hip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C438",
     "DESCRIPTOR": "Malignant melanoma of overlapping sites of skin",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4400",
     "DESCRIPTOR": "Unspecified malignant neoplasm of skin of lip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4401",
     "DESCRIPTOR": "Basal cell carcinoma of skin of lip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4402",
     "DESCRIPTOR": "Squamous cell carcinoma of skin of lip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4409",
     "DESCRIPTOR": "Other specified malignant neoplasm of skin of lip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44102",
     "DESCRIPTOR": "Unspecified malignant neoplasm of skin of right eyelid, including canthus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44109",
     "DESCRIPTOR": "Unspecified malignant neoplasm of skin of left eyelid, including canthus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44112",
     "DESCRIPTOR": "Basal cell carcinoma of skin of right eyelid, including canthus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44119",
     "DESCRIPTOR": "Basal cell carcinoma of skin of left eyelid, including canthus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44122",
     "DESCRIPTOR": "Squamous cell carcinoma of skin of right eyelid, including canthus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44129",
     "DESCRIPTOR": "Squamous cell carcinoma of skin of left eyelid, including canthus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44192",
     "DESCRIPTOR": "Other specified malignant neoplasm of skin of right eyelid, including canthus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44199",
     "DESCRIPTOR": "Other specified malignant neoplasm of skin of left eyelid, including canthus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44202",
     "DESCRIPTOR": "Unspecified malignant neoplasm of skin of right ear and external auricular canal",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44209",
     "DESCRIPTOR": "Unspecified malignant neoplasm of skin of left ear and external auricular canal",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44212",
     "DESCRIPTOR": "Basal cell carcinoma of skin of right ear and external auricular canal",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44219",
     "DESCRIPTOR": "Basal cell carcinoma of skin of left ear and external auricular canal",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44222",
     "DESCRIPTOR": "Squamous cell carcinoma of skin of right ear and external auricular canal",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44229",
     "DESCRIPTOR": "Squamous cell carcinoma of skin of left ear and external auricular canal",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44292",
     "DESCRIPTOR": "Other specified malignant neoplasm of skin of right ear and external auricular canal",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44299",
     "DESCRIPTOR": "Other specified malignant neoplasm of skin of left ear and external auricular canal",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44300",
     "DESCRIPTOR": "Unspecified malignant neoplasm of skin of unspecified part of face",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44301",
     "DESCRIPTOR": "Unspecified malignant neoplasm of skin of nose",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44309",
     "DESCRIPTOR": "Unspecified malignant neoplasm of skin of other parts of face",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44310",
     "DESCRIPTOR": "Basal cell carcinoma of skin of unspecified parts of face",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44311",
     "DESCRIPTOR": "Basal cell carcinoma of skin of nose",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44319",
     "DESCRIPTOR": "Basal cell carcinoma of skin of other parts of face",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44320",
     "DESCRIPTOR": "Squamous cell carcinoma of skin of unspecified parts of face",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44321",
     "DESCRIPTOR": "Squamous cell carcinoma of skin of nose",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44329",
     "DESCRIPTOR": "Squamous cell carcinoma of skin of other parts of face",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44390",
     "DESCRIPTOR": "Other specified malignant neoplasm of skin of unspecified parts of face",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44391",
     "DESCRIPTOR": "Other specified malignant neoplasm of skin of nose",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44399",
     "DESCRIPTOR": "Other specified malignant neoplasm of skin of other parts of face",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4440",
     "DESCRIPTOR": "Unspecified malignant neoplasm of skin of scalp and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4441",
     "DESCRIPTOR": "Basal cell carcinoma of skin of scalp and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4442",
     "DESCRIPTOR": "Squamous cell carcinoma of skin of scalp and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4449",
     "DESCRIPTOR": "Other specified malignant neoplasm of skin of scalp and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44500",
     "DESCRIPTOR": "Unspecified malignant neoplasm of anal skin",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44501",
     "DESCRIPTOR": "Unspecified malignant neoplasm of skin of breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44509",
     "DESCRIPTOR": "Unspecified malignant neoplasm of skin of other part of trunk",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44510",
     "DESCRIPTOR": "Basal cell carcinoma of anal skin",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44511",
     "DESCRIPTOR": "Basal cell carcinoma of skin of breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44519",
     "DESCRIPTOR": "Basal cell carcinoma of skin of other part of trunk",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44520",
     "DESCRIPTOR": "Squamous cell carcinoma of anal skin",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44521",
     "DESCRIPTOR": "Squamous cell carcinoma of skin of breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44529",
     "DESCRIPTOR": "Squamous cell carcinoma of skin of other part of trunk",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44590",
     "DESCRIPTOR": "Other specified malignant neoplasm of anal skin",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44591",
     "DESCRIPTOR": "Other specified malignant neoplasm of skin of breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44599",
     "DESCRIPTOR": "Other specified malignant neoplasm of skin of other part of trunk",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44602",
     "DESCRIPTOR": "Unspecified malignant neoplasm of skin of right upper limb, including shoulder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44609",
     "DESCRIPTOR": "Unspecified malignant neoplasm of skin of left upper limb, including shoulder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44612",
     "DESCRIPTOR": "Basal cell carcinoma of skin of right upper limb, including shoulder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44619",
     "DESCRIPTOR": "Basal cell carcinoma of skin of left upper limb, including shoulder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44622",
     "DESCRIPTOR": "Squamous cell carcinoma of skin of right upper limb, including shoulder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44629",
     "DESCRIPTOR": "Squamous cell carcinoma of skin of left upper limb, including shoulder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44692",
     "DESCRIPTOR": "Other specified malignant neoplasm of skin of right upper limb, including shoulder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44699",
     "DESCRIPTOR": "Other specified malignant neoplasm of skin of left upper limb, including shoulder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44702",
     "DESCRIPTOR": "Unspecified malignant neoplasm of skin of right lower limb, including hip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44709",
     "DESCRIPTOR": "Unspecified malignant neoplasm of skin of left lower limb, including hip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44712",
     "DESCRIPTOR": "Basal cell carcinoma of skin of right lower limb, including hip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44719",
     "DESCRIPTOR": "Basal cell carcinoma of skin of left lower limb, including hip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44722",
     "DESCRIPTOR": "Squamous cell carcinoma of skin of right lower limb, including hip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44729",
     "DESCRIPTOR": "Squamous cell carcinoma of skin of left lower limb, including hip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44792",
     "DESCRIPTOR": "Other specified malignant neoplasm of skin of right lower limb, including hip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C44799",
     "DESCRIPTOR": "Other specified malignant neoplasm of skin of left lower limb, including hip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4480",
     "DESCRIPTOR": "Unspecified malignant neoplasm of overlapping sites of skin",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4481",
     "DESCRIPTOR": "Basal cell carcinoma of overlapping sites of skin",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4482",
     "DESCRIPTOR": "Squamous cell carcinoma of overlapping sites of skin",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4489",
     "DESCRIPTOR": "Other specified malignant neoplasm of overlapping sites of skin",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C450",
     "DESCRIPTOR": "Mesothelioma of pleura",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C451",
     "DESCRIPTOR": "Mesothelioma of peritoneum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C452",
     "DESCRIPTOR": "Mesothelioma of pericardium",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C457",
     "DESCRIPTOR": "Mesothelioma of other sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C459",
     "DESCRIPTOR": "Mesothelioma, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C460",
     "DESCRIPTOR": "Kaposi's sarcoma of skin",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C461",
     "DESCRIPTOR": "Kaposi's sarcoma of soft tissue",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C462",
     "DESCRIPTOR": "Kaposi's sarcoma of palate",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C463",
     "DESCRIPTOR": "Kaposi's sarcoma of lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C464",
     "DESCRIPTOR": "Kaposi's sarcoma of gastrointestinal sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4650",
     "DESCRIPTOR": "Kaposi's sarcoma of unspecified lung",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4651",
     "DESCRIPTOR": "Kaposi's sarcoma of right lung",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4652",
     "DESCRIPTOR": "Kaposi's sarcoma of left lung",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C467",
     "DESCRIPTOR": "Kaposi's sarcoma of other sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C469",
     "DESCRIPTOR": "Kaposi's sarcoma, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C470",
     "DESCRIPTOR": "Malignant neoplasm of peripheral nerves of head, face and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4711",
     "DESCRIPTOR": "Malignant neoplasm of peripheral nerves of right upper limb, including shoulder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4712",
     "DESCRIPTOR": "Malignant neoplasm of peripheral nerves of left upper limb, including shoulder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4721",
     "DESCRIPTOR": "Malignant neoplasm of peripheral nerves of right lower limb, including hip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4722",
     "DESCRIPTOR": "Malignant neoplasm of peripheral nerves of left lower limb, including hip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C473",
     "DESCRIPTOR": "Malignant neoplasm of peripheral nerves of thorax",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C474",
     "DESCRIPTOR": "Malignant neoplasm of peripheral nerves of abdomen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C475",
     "DESCRIPTOR": "Malignant neoplasm of peripheral nerves of pelvis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C476",
     "DESCRIPTOR": "Malignant neoplasm of peripheral nerves of trunk, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C478",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of peripheral nerves and autonomic nervous system",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C480",
     "DESCRIPTOR": "Malignant neoplasm of retroperitoneum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C481",
     "DESCRIPTOR": "Malignant neoplasm of specified parts of peritoneum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C482",
     "DESCRIPTOR": "Malignant neoplasm of peritoneum, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C488",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of retroperitoneum and peritoneum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C490",
     "DESCRIPTOR": "Malignant neoplasm of connective and soft tissue of head, face and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4911",
     "DESCRIPTOR": "Malignant neoplasm of connective and soft tissue of right upper limb, including shoulder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4912",
     "DESCRIPTOR": "Malignant neoplasm of connective and soft tissue of left upper limb, including shoulder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4921",
     "DESCRIPTOR": "Malignant neoplasm of connective and soft tissue of right lower limb, including hip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4922",
     "DESCRIPTOR": "Malignant neoplasm of connective and soft tissue of left lower limb, including hip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C493",
     "DESCRIPTOR": "Malignant neoplasm of connective and soft tissue of thorax",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C494",
     "DESCRIPTOR": "Malignant neoplasm of connective and soft tissue of abdomen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C495",
     "DESCRIPTOR": "Malignant neoplasm of connective and soft tissue of pelvis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C496",
     "DESCRIPTOR": "Malignant neoplasm of connective and soft tissue of trunk, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C498",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of connective and soft tissue",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C49A0",
     "DESCRIPTOR": "Gastrointestinal stromal tumor, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C49A1",
     "DESCRIPTOR": "Gastrointestinal stromal tumor of esophagus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C49A2",
     "DESCRIPTOR": "Gastrointestinal stromal tumor of stomach",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C49A3",
     "DESCRIPTOR": "Gastrointestinal stromal tumor of small intestine",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C49A4",
     "DESCRIPTOR": "Gastrointestinal stromal tumor of large intestine",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C49A5",
     "DESCRIPTOR": "Gastrointestinal stromal tumor of rectum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C49A9",
     "DESCRIPTOR": "Gastrointestinal stromal tumor of other sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4A0",
     "DESCRIPTOR": "Merkel cell carcinoma of lip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4A11",
     "DESCRIPTOR": "Merkel cell carcinoma of right eyelid, including canthus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4A12",
     "DESCRIPTOR": "Merkel cell carcinoma of left eyelid, including canthus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4A21",
     "DESCRIPTOR": "Merkel cell carcinoma of right ear and external auricular canal",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4A22",
     "DESCRIPTOR": "Merkel cell carcinoma of left ear and external auricular canal",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4A30",
     "DESCRIPTOR": "Merkel cell carcinoma of unspecified part of face",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4A31",
     "DESCRIPTOR": "Merkel cell carcinoma of nose",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4A39",
     "DESCRIPTOR": "Merkel cell carcinoma of other parts of face",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4A4",
     "DESCRIPTOR": "Merkel cell carcinoma of scalp and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4A51",
     "DESCRIPTOR": "Merkel cell carcinoma of anal skin",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4A52",
     "DESCRIPTOR": "Merkel cell carcinoma of skin of breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4A59",
     "DESCRIPTOR": "Merkel cell carcinoma of other part of trunk",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4A61",
     "DESCRIPTOR": "Merkel cell carcinoma of right upper limb, including shoulder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4A62",
     "DESCRIPTOR": "Merkel cell carcinoma of left upper limb, including shoulder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4A71",
     "DESCRIPTOR": "Merkel cell carcinoma of right lower limb, including hip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4A72",
     "DESCRIPTOR": "Merkel cell carcinoma of left lower limb, including hip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C4A8",
     "DESCRIPTOR": "Merkel cell carcinoma of overlapping sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50011",
     "DESCRIPTOR": "Malignant neoplasm of nipple and areola, right female breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50012",
     "DESCRIPTOR": "Malignant neoplasm of nipple and areola, left female breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50021",
     "DESCRIPTOR": "Malignant neoplasm of nipple and areola, right male breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50022",
     "DESCRIPTOR": "Malignant neoplasm of nipple and areola, left male breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50111",
     "DESCRIPTOR": "Malignant neoplasm of central portion of right female breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50112",
     "DESCRIPTOR": "Malignant neoplasm of central portion of left female breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50121",
     "DESCRIPTOR": "Malignant neoplasm of central portion of right male breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50122",
     "DESCRIPTOR": "Malignant neoplasm of central portion of left male breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50211",
     "DESCRIPTOR": "Malignant neoplasm of upper-inner quadrant of right female breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50212",
     "DESCRIPTOR": "Malignant neoplasm of upper-inner quadrant of left female breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50221",
     "DESCRIPTOR": "Malignant neoplasm of upper-inner quadrant of right male breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50222",
     "DESCRIPTOR": "Malignant neoplasm of upper-inner quadrant of left male breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50311",
     "DESCRIPTOR": "Malignant neoplasm of lower-inner quadrant of right female breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50312",
     "DESCRIPTOR": "Malignant neoplasm of lower-inner quadrant of left female breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50321",
     "DESCRIPTOR": "Malignant neoplasm of lower-inner quadrant of right male breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50322",
     "DESCRIPTOR": "Malignant neoplasm of lower-inner quadrant of left male breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50411",
     "DESCRIPTOR": "Malignant neoplasm of upper-outer quadrant of right female breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50412",
     "DESCRIPTOR": "Malignant neoplasm of upper-outer quadrant of left female breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50421",
     "DESCRIPTOR": "Malignant neoplasm of upper-outer quadrant of right male breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50422",
     "DESCRIPTOR": "Malignant neoplasm of upper-outer quadrant of left male breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50511",
     "DESCRIPTOR": "Malignant neoplasm of lower-outer quadrant of right female breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50512",
     "DESCRIPTOR": "Malignant neoplasm of lower-outer quadrant of left female breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50521",
     "DESCRIPTOR": "Malignant neoplasm of lower-outer quadrant of right male breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50522",
     "DESCRIPTOR": "Malignant neoplasm of lower-outer quadrant of left male breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50611",
     "DESCRIPTOR": "Malignant neoplasm of axillary tail of right female breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50612",
     "DESCRIPTOR": "Malignant neoplasm of axillary tail of left female breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50621",
     "DESCRIPTOR": "Malignant neoplasm of axillary tail of right male breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50622",
     "DESCRIPTOR": "Malignant neoplasm of axillary tail of left male breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50811",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of right female breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50812",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of left female breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50821",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of right male breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50822",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of left male breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50911",
     "DESCRIPTOR": "Malignant neoplasm of unspecified site of right female breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50912",
     "DESCRIPTOR": "Malignant neoplasm of unspecified site of left female breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50921",
     "DESCRIPTOR": "Malignant neoplasm of unspecified site of right male breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C50922",
     "DESCRIPTOR": "Malignant neoplasm of unspecified site of left male breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C510",
     "DESCRIPTOR": "Malignant neoplasm of labium majus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C511",
     "DESCRIPTOR": "Malignant neoplasm of labium minus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C512",
     "DESCRIPTOR": "Malignant neoplasm of clitoris",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C518",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of vulva",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C519",
     "DESCRIPTOR": "Malignant neoplasm of vulva, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C52",
     "DESCRIPTOR": "Malignant neoplasm of vagina",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C530",
     "DESCRIPTOR": "Malignant neoplasm of endocervix",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C531",
     "DESCRIPTOR": "Malignant neoplasm of exocervix",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C538",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of cervix uteri",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C539",
     "DESCRIPTOR": "Malignant neoplasm of cervix uteri, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C540",
     "DESCRIPTOR": "Malignant neoplasm of isthmus uteri",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C541",
     "DESCRIPTOR": "Malignant neoplasm of endometrium",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C542",
     "DESCRIPTOR": "Malignant neoplasm of myometrium",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C543",
     "DESCRIPTOR": "Malignant neoplasm of fundus uteri",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C548",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of corpus uteri",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C549",
     "DESCRIPTOR": "Malignant neoplasm of corpus uteri, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C55",
     "DESCRIPTOR": "Malignant neoplasm of uterus, part unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C561",
     "DESCRIPTOR": "Malignant neoplasm of right ovary",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C562",
     "DESCRIPTOR": "Malignant neoplasm of left ovary",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C569",
     "DESCRIPTOR": "Malignant neoplasm of unspecified ovary",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C5700",
     "DESCRIPTOR": "Malignant neoplasm of unspecified fallopian tube",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C5701",
     "DESCRIPTOR": "Malignant neoplasm of right fallopian tube",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C5702",
     "DESCRIPTOR": "Malignant neoplasm of left fallopian tube",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C5710",
     "DESCRIPTOR": "Malignant neoplasm of unspecified broad ligament",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C5711",
     "DESCRIPTOR": "Malignant neoplasm of right broad ligament",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C5712",
     "DESCRIPTOR": "Malignant neoplasm of left broad ligament",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C5720",
     "DESCRIPTOR": "Malignant neoplasm of unspecified round ligament",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C5721",
     "DESCRIPTOR": "Malignant neoplasm of right round ligament",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C5722",
     "DESCRIPTOR": "Malignant neoplasm of left round ligament",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C573",
     "DESCRIPTOR": "Malignant neoplasm of parametrium",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C574",
     "DESCRIPTOR": "Malignant neoplasm of uterine adnexa, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C577",
     "DESCRIPTOR": "Malignant neoplasm of other specified female genital organs",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C578",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of female genital organs",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C58",
     "DESCRIPTOR": "Malignant neoplasm of placenta",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C600",
     "DESCRIPTOR": "Malignant neoplasm of prepuce",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C601",
     "DESCRIPTOR": "Malignant neoplasm of glans penis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C602",
     "DESCRIPTOR": "Malignant neoplasm of body of penis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C608",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of penis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C609",
     "DESCRIPTOR": "Malignant neoplasm of penis, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C61",
     "DESCRIPTOR": "Malignant neoplasm of prostate",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6200",
     "DESCRIPTOR": "Malignant neoplasm of unspecified undescended testis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6201",
     "DESCRIPTOR": "Malignant neoplasm of undescended right testis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6202",
     "DESCRIPTOR": "Malignant neoplasm of undescended left testis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6210",
     "DESCRIPTOR": "Malignant neoplasm of unspecified descended testis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6211",
     "DESCRIPTOR": "Malignant neoplasm of descended right testis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6212",
     "DESCRIPTOR": "Malignant neoplasm of descended left testis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6291",
     "DESCRIPTOR": "Malignant neoplasm of right testis, unspecified whether descended or undescended",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6292",
     "DESCRIPTOR": "Malignant neoplasm of left testis, unspecified whether descended or undescended",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6300",
     "DESCRIPTOR": "Malignant neoplasm of unspecified epididymis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6301",
     "DESCRIPTOR": "Malignant neoplasm of right epididymis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6302",
     "DESCRIPTOR": "Malignant neoplasm of left epididymis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6310",
     "DESCRIPTOR": "Malignant neoplasm of unspecified spermatic cord",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6311",
     "DESCRIPTOR": "Malignant neoplasm of right spermatic cord",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6312",
     "DESCRIPTOR": "Malignant neoplasm of left spermatic cord",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C632",
     "DESCRIPTOR": "Malignant neoplasm of scrotum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C637",
     "DESCRIPTOR": "Malignant neoplasm of other specified male genital organs",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C638",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of male genital organs",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C641",
     "DESCRIPTOR": "Malignant neoplasm of right kidney, except renal pelvis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C642",
     "DESCRIPTOR": "Malignant neoplasm of left kidney, except renal pelvis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C651",
     "DESCRIPTOR": "Malignant neoplasm of right renal pelvis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C652",
     "DESCRIPTOR": "Malignant neoplasm of left renal pelvis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C659",
     "DESCRIPTOR": "Malignant neoplasm of unspecified renal pelvis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C661",
     "DESCRIPTOR": "Malignant neoplasm of right ureter",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C662",
     "DESCRIPTOR": "Malignant neoplasm of left ureter",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C669",
     "DESCRIPTOR": "Malignant neoplasm of unspecified ureter",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C670",
     "DESCRIPTOR": "Malignant neoplasm of trigone of bladder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C671",
     "DESCRIPTOR": "Malignant neoplasm of dome of bladder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C672",
     "DESCRIPTOR": "Malignant neoplasm of lateral wall of bladder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C673",
     "DESCRIPTOR": "Malignant neoplasm of anterior wall of bladder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C674",
     "DESCRIPTOR": "Malignant neoplasm of posterior wall of bladder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C675",
     "DESCRIPTOR": "Malignant neoplasm of bladder neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C676",
     "DESCRIPTOR": "Malignant neoplasm of ureteric orifice",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C677",
     "DESCRIPTOR": "Malignant neoplasm of urachus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C678",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of bladder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C679",
     "DESCRIPTOR": "Malignant neoplasm of bladder, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C680",
     "DESCRIPTOR": "Malignant neoplasm of urethra",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C681",
     "DESCRIPTOR": "Malignant neoplasm of paraurethral glands",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C688",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of urinary organs",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C689",
     "DESCRIPTOR": "Malignant neoplasm of urinary organ, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6901",
     "DESCRIPTOR": "Malignant neoplasm of right conjunctiva",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6902",
     "DESCRIPTOR": "Malignant neoplasm of left conjunctiva",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6911",
     "DESCRIPTOR": "Malignant neoplasm of right cornea",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6912",
     "DESCRIPTOR": "Malignant neoplasm of left cornea",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6920",
     "DESCRIPTOR": "Malignant neoplasm of unspecified retina",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6921",
     "DESCRIPTOR": "Malignant neoplasm of right retina",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6922",
     "DESCRIPTOR": "Malignant neoplasm of left retina",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6930",
     "DESCRIPTOR": "Malignant neoplasm of unspecified choroid",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6931",
     "DESCRIPTOR": "Malignant neoplasm of right choroid",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6932",
     "DESCRIPTOR": "Malignant neoplasm of left choroid",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6940",
     "DESCRIPTOR": "Malignant neoplasm of unspecified ciliary body",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6941",
     "DESCRIPTOR": "Malignant neoplasm of right ciliary body",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6942",
     "DESCRIPTOR": "Malignant neoplasm of left ciliary body",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6951",
     "DESCRIPTOR": "Malignant neoplasm of right lacrimal gland and duct",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6952",
     "DESCRIPTOR": "Malignant neoplasm of left lacrimal gland and duct",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6961",
     "DESCRIPTOR": "Malignant neoplasm of right orbit",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6962",
     "DESCRIPTOR": "Malignant neoplasm of left orbit",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6981",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of right eye and adnexa",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6982",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of left eye and adnexa",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6991",
     "DESCRIPTOR": "Malignant neoplasm of unspecified site of right eye",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C6992",
     "DESCRIPTOR": "Malignant neoplasm of unspecified site of left eye",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C700",
     "DESCRIPTOR": "Malignant neoplasm of cerebral meninges",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C701",
     "DESCRIPTOR": "Malignant neoplasm of spinal meninges",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C709",
     "DESCRIPTOR": "Malignant neoplasm of meninges, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C710",
     "DESCRIPTOR": "Malignant neoplasm of cerebrum, except lobes and ventricles",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C711",
     "DESCRIPTOR": "Malignant neoplasm of frontal lobe",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C712",
     "DESCRIPTOR": "Malignant neoplasm of temporal lobe",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C713",
     "DESCRIPTOR": "Malignant neoplasm of parietal lobe",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C714",
     "DESCRIPTOR": "Malignant neoplasm of occipital lobe",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C715",
     "DESCRIPTOR": "Malignant neoplasm of cerebral ventricle",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C716",
     "DESCRIPTOR": "Malignant neoplasm of cerebellum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C717",
     "DESCRIPTOR": "Malignant neoplasm of brain stem",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C718",
     "DESCRIPTOR": "Malignant neoplasm of overlapping sites of brain",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C719",
     "DESCRIPTOR": "Malignant neoplasm of brain, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C720",
     "DESCRIPTOR": "Malignant neoplasm of spinal cord",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C721",
     "DESCRIPTOR": "Malignant neoplasm of cauda equina",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7220",
     "DESCRIPTOR": "Malignant neoplasm of unspecified olfactory nerve",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7221",
     "DESCRIPTOR": "Malignant neoplasm of right olfactory nerve",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7222",
     "DESCRIPTOR": "Malignant neoplasm of left olfactory nerve",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7230",
     "DESCRIPTOR": "Malignant neoplasm of unspecified optic nerve",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7231",
     "DESCRIPTOR": "Malignant neoplasm of right optic nerve",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7232",
     "DESCRIPTOR": "Malignant neoplasm of left optic nerve",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7240",
     "DESCRIPTOR": "Malignant neoplasm of unspecified acoustic nerve",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7241",
     "DESCRIPTOR": "Malignant neoplasm of right acoustic nerve",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7242",
     "DESCRIPTOR": "Malignant neoplasm of left acoustic nerve",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7250",
     "DESCRIPTOR": "Malignant neoplasm of unspecified cranial nerve",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7259",
     "DESCRIPTOR": "Malignant neoplasm of other cranial nerves",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C73",
     "DESCRIPTOR": "Malignant neoplasm of thyroid gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7400",
     "DESCRIPTOR": "Malignant neoplasm of cortex of unspecified adrenal gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7401",
     "DESCRIPTOR": "Malignant neoplasm of cortex of right adrenal gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7402",
     "DESCRIPTOR": "Malignant neoplasm of cortex of left adrenal gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7410",
     "DESCRIPTOR": "Malignant neoplasm of medulla of unspecified adrenal gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7411",
     "DESCRIPTOR": "Malignant neoplasm of medulla of right adrenal gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7412",
     "DESCRIPTOR": "Malignant neoplasm of medulla of left adrenal gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7491",
     "DESCRIPTOR": "Malignant neoplasm of unspecified part of right adrenal gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7492",
     "DESCRIPTOR": "Malignant neoplasm of unspecified part of left adrenal gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C750",
     "DESCRIPTOR": "Malignant neoplasm of parathyroid gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C751",
     "DESCRIPTOR": "Malignant neoplasm of pituitary gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C752",
     "DESCRIPTOR": "Malignant neoplasm of craniopharyngeal duct",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C753",
     "DESCRIPTOR": "Malignant neoplasm of pineal gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C754",
     "DESCRIPTOR": "Malignant neoplasm of carotid body",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C755",
     "DESCRIPTOR": "Malignant neoplasm of aortic body and other paraganglia",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C758",
     "DESCRIPTOR": "Malignant neoplasm with pluriglandular involvement, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C759",
     "DESCRIPTOR": "Malignant neoplasm of endocrine gland, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C760",
     "DESCRIPTOR": "Malignant neoplasm of head, face and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C761",
     "DESCRIPTOR": "Malignant neoplasm of thorax",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C762",
     "DESCRIPTOR": "Malignant neoplasm of abdomen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C763",
     "DESCRIPTOR": "Malignant neoplasm of pelvis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7641",
     "DESCRIPTOR": "Malignant neoplasm of right upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7642",
     "DESCRIPTOR": "Malignant neoplasm of left upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7651",
     "DESCRIPTOR": "Malignant neoplasm of right lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7652",
     "DESCRIPTOR": "Malignant neoplasm of left lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C768",
     "DESCRIPTOR": "Malignant neoplasm of other specified ill-defined sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C770",
     "DESCRIPTOR": "Secondary and unspecified malignant neoplasm of lymph nodes of head, face and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C771",
     "DESCRIPTOR": "Secondary and unspecified malignant neoplasm of intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C772",
     "DESCRIPTOR": "Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C773",
     "DESCRIPTOR": "Secondary and unspecified malignant neoplasm of axilla and upper limb lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C774",
     "DESCRIPTOR": "Secondary and unspecified malignant neoplasm of inguinal and lower limb lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C775",
     "DESCRIPTOR": "Secondary and unspecified malignant neoplasm of intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C778",
     "DESCRIPTOR": "Secondary and unspecified malignant neoplasm of lymph nodes of multiple regions",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7800",
     "DESCRIPTOR": "Secondary malignant neoplasm of unspecified lung",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7801",
     "DESCRIPTOR": "Secondary malignant neoplasm of right lung",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7802",
     "DESCRIPTOR": "Secondary malignant neoplasm of left lung",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C781",
     "DESCRIPTOR": "Secondary malignant neoplasm of mediastinum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C782",
     "DESCRIPTOR": "Secondary malignant neoplasm of pleura",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7830",
     "DESCRIPTOR": "Secondary malignant neoplasm of unspecified respiratory organ",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7839",
     "DESCRIPTOR": "Secondary malignant neoplasm of other respiratory organs",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C784",
     "DESCRIPTOR": "Secondary malignant neoplasm of small intestine",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C785",
     "DESCRIPTOR": "Secondary malignant neoplasm of large intestine and rectum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C786",
     "DESCRIPTOR": "Secondary malignant neoplasm of retroperitoneum and peritoneum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C787",
     "DESCRIPTOR": "Secondary malignant neoplasm of liver and intrahepatic bile duct",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7880",
     "DESCRIPTOR": "Secondary malignant neoplasm of unspecified digestive organ",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7889",
     "DESCRIPTOR": "Secondary malignant neoplasm of other digestive organs",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7900",
     "DESCRIPTOR": "Secondary malignant neoplasm of unspecified kidney and renal pelvis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7901",
     "DESCRIPTOR": "Secondary malignant neoplasm of right kidney and renal pelvis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7902",
     "DESCRIPTOR": "Secondary malignant neoplasm of left kidney and renal pelvis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7910",
     "DESCRIPTOR": "Secondary malignant neoplasm of unspecified urinary organs",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7911",
     "DESCRIPTOR": "Secondary malignant neoplasm of bladder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7919",
     "DESCRIPTOR": "Secondary malignant neoplasm of other urinary organs",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C792",
     "DESCRIPTOR": "Secondary malignant neoplasm of skin",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7931",
     "DESCRIPTOR": "Secondary malignant neoplasm of brain",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7932",
     "DESCRIPTOR": "Secondary malignant neoplasm of cerebral meninges",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7940",
     "DESCRIPTOR": "Secondary malignant neoplasm of unspecified part of nervous system",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7949",
     "DESCRIPTOR": "Secondary malignant neoplasm of other parts of nervous system",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7951",
     "DESCRIPTOR": "Secondary malignant neoplasm of bone",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7952",
     "DESCRIPTOR": "Secondary malignant neoplasm of bone marrow",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7960",
     "DESCRIPTOR": "Secondary malignant neoplasm of unspecified ovary",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7961",
     "DESCRIPTOR": "Secondary malignant neoplasm of right ovary",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7962",
     "DESCRIPTOR": "Secondary malignant neoplasm of left ovary",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7970",
     "DESCRIPTOR": "Secondary malignant neoplasm of unspecified adrenal gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7971",
     "DESCRIPTOR": "Secondary malignant neoplasm of right adrenal gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7972",
     "DESCRIPTOR": "Secondary malignant neoplasm of left adrenal gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7981",
     "DESCRIPTOR": "Secondary malignant neoplasm of breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7982",
     "DESCRIPTOR": "Secondary malignant neoplasm of genital organs",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7989",
     "DESCRIPTOR": "Secondary malignant neoplasm of other specified sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7A00",
     "DESCRIPTOR": "Malignant carcinoid tumor of unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7A010",
     "DESCRIPTOR": "Malignant carcinoid tumor of the duodenum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7A011",
     "DESCRIPTOR": "Malignant carcinoid tumor of the jejunum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7A012",
     "DESCRIPTOR": "Malignant carcinoid tumor of the ileum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7A019",
     "DESCRIPTOR": "Malignant carcinoid tumor of the small intestine, unspecified portion",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7A020",
     "DESCRIPTOR": "Malignant carcinoid tumor of the appendix",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7A021",
     "DESCRIPTOR": "Malignant carcinoid tumor of the cecum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7A022",
     "DESCRIPTOR": "Malignant carcinoid tumor of the ascending colon",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7A023",
     "DESCRIPTOR": "Malignant carcinoid tumor of the transverse colon",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7A024",
     "DESCRIPTOR": "Malignant carcinoid tumor of the descending colon",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7A025",
     "DESCRIPTOR": "Malignant carcinoid tumor of the sigmoid colon",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7A026",
     "DESCRIPTOR": "Malignant carcinoid tumor of the rectum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7A029",
     "DESCRIPTOR": "Malignant carcinoid tumor of the large intestine, unspecified portion",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7A090",
     "DESCRIPTOR": "Malignant carcinoid tumor of the bronchus and lung",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7A091",
     "DESCRIPTOR": "Malignant carcinoid tumor of the thymus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7A092",
     "DESCRIPTOR": "Malignant carcinoid tumor of the stomach",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7A093",
     "DESCRIPTOR": "Malignant carcinoid tumor of the kidney",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7A094",
     "DESCRIPTOR": "Malignant carcinoid tumor of the foregut, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7A095",
     "DESCRIPTOR": "Malignant carcinoid tumor of the midgut, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7A096",
     "DESCRIPTOR": "Malignant carcinoid tumor of the hindgut, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7A098",
     "DESCRIPTOR": "Malignant carcinoid tumors of other sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7A1",
     "DESCRIPTOR": "Malignant poorly differentiated neuroendocrine tumors",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7A8",
     "DESCRIPTOR": "Other malignant neuroendocrine tumors",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7B00",
     "DESCRIPTOR": "Secondary carcinoid tumors, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7B01",
     "DESCRIPTOR": "Secondary carcinoid tumors of distant lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7B02",
     "DESCRIPTOR": "Secondary carcinoid tumors of liver",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7B03",
     "DESCRIPTOR": "Secondary carcinoid tumors of bone",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7B04",
     "DESCRIPTOR": "Secondary carcinoid tumors of peritoneum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7B09",
     "DESCRIPTOR": "Secondary carcinoid tumors of other sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7B1",
     "DESCRIPTOR": "Secondary Merkel cell carcinoma",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C7B8",
     "DESCRIPTOR": "Other secondary neuroendocrine tumors",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C800",
     "DESCRIPTOR": "Disseminated malignant neoplasm, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C801",
     "DESCRIPTOR": "Malignant (primary) neoplasm, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C802",
     "DESCRIPTOR": "Malignant neoplasm associated with transplanted organ",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8100",
     "DESCRIPTOR": "Nodular lymphocyte predominant Hodgkin lymphoma, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8101",
     "DESCRIPTOR": "Nodular lymphocyte predominant Hodgkin lymphoma, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8102",
     "DESCRIPTOR": "Nodular lymphocyte predominant Hodgkin lymphoma, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8103",
     "DESCRIPTOR": "Nodular lymphocyte predominant Hodgkin lymphoma, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8104",
     "DESCRIPTOR": "Nodular lymphocyte predominant Hodgkin lymphoma, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8105",
     "DESCRIPTOR": "Nodular lymphocyte predominant Hodgkin lymphoma, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8106",
     "DESCRIPTOR": "Nodular lymphocyte predominant Hodgkin lymphoma, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8107",
     "DESCRIPTOR": "Nodular lymphocyte predominant Hodgkin lymphoma, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8108",
     "DESCRIPTOR": "Nodular lymphocyte predominant Hodgkin lymphoma, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8109",
     "DESCRIPTOR": "Nodular lymphocyte predominant Hodgkin lymphoma, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8110",
     "DESCRIPTOR": "Nodular sclerosis Hodgkin lymphoma, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8111",
     "DESCRIPTOR": "Nodular sclerosis Hodgkin lymphoma, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8112",
     "DESCRIPTOR": "Nodular sclerosis Hodgkin lymphoma, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8113",
     "DESCRIPTOR": "Nodular sclerosis Hodgkin lymphoma, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8114",
     "DESCRIPTOR": "Nodular sclerosis Hodgkin lymphoma, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8115",
     "DESCRIPTOR": "Nodular sclerosis Hodgkin lymphoma, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8116",
     "DESCRIPTOR": "Nodular sclerosis Hodgkin lymphoma, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8117",
     "DESCRIPTOR": "Nodular sclerosis Hodgkin lymphoma, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8118",
     "DESCRIPTOR": "Nodular sclerosis Hodgkin lymphoma, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8119",
     "DESCRIPTOR": "Nodular sclerosis Hodgkin lymphoma, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8120",
     "DESCRIPTOR": "Mixed cellularity Hodgkin lymphoma, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8121",
     "DESCRIPTOR": "Mixed cellularity Hodgkin lymphoma, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8122",
     "DESCRIPTOR": "Mixed cellularity Hodgkin lymphoma, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8123",
     "DESCRIPTOR": "Mixed cellularity Hodgkin lymphoma, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8124",
     "DESCRIPTOR": "Mixed cellularity Hodgkin lymphoma, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8125",
     "DESCRIPTOR": "Mixed cellularity Hodgkin lymphoma, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8126",
     "DESCRIPTOR": "Mixed cellularity Hodgkin lymphoma, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8127",
     "DESCRIPTOR": "Mixed cellularity Hodgkin lymphoma, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8128",
     "DESCRIPTOR": "Mixed cellularity Hodgkin lymphoma, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8129",
     "DESCRIPTOR": "Mixed cellularity Hodgkin lymphoma, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8130",
     "DESCRIPTOR": "Lymphocyte depleted Hodgkin lymphoma, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8131",
     "DESCRIPTOR": "Lymphocyte depleted Hodgkin lymphoma, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8132",
     "DESCRIPTOR": "Lymphocyte depleted Hodgkin lymphoma, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8133",
     "DESCRIPTOR": "Lymphocyte depleted Hodgkin lymphoma, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8134",
     "DESCRIPTOR": "Lymphocyte depleted Hodgkin lymphoma, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8135",
     "DESCRIPTOR": "Lymphocyte depleted Hodgkin lymphoma, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8136",
     "DESCRIPTOR": "Lymphocyte depleted Hodgkin lymphoma, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8137",
     "DESCRIPTOR": "Lymphocyte depleted Hodgkin lymphoma, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8138",
     "DESCRIPTOR": "Lymphocyte depleted Hodgkin lymphoma, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8139",
     "DESCRIPTOR": "Lymphocyte depleted Hodgkin lymphoma, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8140",
     "DESCRIPTOR": "Lymphocyte-rich Hodgkin lymphoma, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8141",
     "DESCRIPTOR": "Lymphocyte-rich Hodgkin lymphoma, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8142",
     "DESCRIPTOR": "Lymphocyte-rich Hodgkin lymphoma, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8143",
     "DESCRIPTOR": "Lymphocyte-rich Hodgkin lymphoma, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8144",
     "DESCRIPTOR": "Lymphocyte-rich Hodgkin lymphoma, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8145",
     "DESCRIPTOR": "Lymphocyte-rich Hodgkin lymphoma, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8146",
     "DESCRIPTOR": "Lymphocyte-rich Hodgkin lymphoma, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8147",
     "DESCRIPTOR": "Lymphocyte-rich Hodgkin lymphoma, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8148",
     "DESCRIPTOR": "Lymphocyte-rich Hodgkin lymphoma, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8149",
     "DESCRIPTOR": "Lymphocyte-rich Hodgkin lymphoma, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8170",
     "DESCRIPTOR": "Other Hodgkin lymphoma, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8171",
     "DESCRIPTOR": "Other Hodgkin lymphoma, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8172",
     "DESCRIPTOR": "Other Hodgkin lymphoma, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8173",
     "DESCRIPTOR": "Other Hodgkin lymphoma, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8174",
     "DESCRIPTOR": "Other Hodgkin lymphoma, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8175",
     "DESCRIPTOR": "Other Hodgkin lymphoma, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8176",
     "DESCRIPTOR": "Other Hodgkin lymphoma, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8177",
     "DESCRIPTOR": "Other Hodgkin lymphoma, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8178",
     "DESCRIPTOR": "Other Hodgkin lymphoma, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8179",
     "DESCRIPTOR": "Other Hodgkin lymphoma, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8190",
     "DESCRIPTOR": "Hodgkin lymphoma, unspecified, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8191",
     "DESCRIPTOR": "Hodgkin lymphoma, unspecified, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8192",
     "DESCRIPTOR": "Hodgkin lymphoma, unspecified, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8193",
     "DESCRIPTOR": "Hodgkin lymphoma, unspecified, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8194",
     "DESCRIPTOR": "Hodgkin lymphoma, unspecified, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8195",
     "DESCRIPTOR": "Hodgkin lymphoma, unspecified, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8196",
     "DESCRIPTOR": "Hodgkin lymphoma, unspecified, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8197",
     "DESCRIPTOR": "Hodgkin lymphoma, unspecified, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8198",
     "DESCRIPTOR": "Hodgkin lymphoma, unspecified, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8199",
     "DESCRIPTOR": "Hodgkin lymphoma, unspecified, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8200",
     "DESCRIPTOR": "Follicular lymphoma grade I, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8201",
     "DESCRIPTOR": "Follicular lymphoma grade I, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8202",
     "DESCRIPTOR": "Follicular lymphoma grade I, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8203",
     "DESCRIPTOR": "Follicular lymphoma grade I, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8204",
     "DESCRIPTOR": "Follicular lymphoma grade I, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8205",
     "DESCRIPTOR": "Follicular lymphoma grade I, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8206",
     "DESCRIPTOR": "Follicular lymphoma grade I, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8207",
     "DESCRIPTOR": "Follicular lymphoma grade I, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8208",
     "DESCRIPTOR": "Follicular lymphoma grade I, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8209",
     "DESCRIPTOR": "Follicular lymphoma grade I, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8210",
     "DESCRIPTOR": "Follicular lymphoma grade II, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8211",
     "DESCRIPTOR": "Follicular lymphoma grade II, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8212",
     "DESCRIPTOR": "Follicular lymphoma grade II, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8213",
     "DESCRIPTOR": "Follicular lymphoma grade II, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8214",
     "DESCRIPTOR": "Follicular lymphoma grade II, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8215",
     "DESCRIPTOR": "Follicular lymphoma grade II, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8216",
     "DESCRIPTOR": "Follicular lymphoma grade II, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8217",
     "DESCRIPTOR": "Follicular lymphoma grade II, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8218",
     "DESCRIPTOR": "Follicular lymphoma grade II, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8219",
     "DESCRIPTOR": "Follicular lymphoma grade II, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8220",
     "DESCRIPTOR": "Follicular lymphoma grade III, unspecified, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8221",
     "DESCRIPTOR": "Follicular lymphoma grade III, unspecified, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8222",
     "DESCRIPTOR": "Follicular lymphoma grade III, unspecified, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8223",
     "DESCRIPTOR": "Follicular lymphoma grade III, unspecified, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8224",
     "DESCRIPTOR": "Follicular lymphoma grade III, unspecified, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8225",
     "DESCRIPTOR": "Follicular lymphoma grade III, unspecified, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8226",
     "DESCRIPTOR": "Follicular lymphoma grade III, unspecified, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8227",
     "DESCRIPTOR": "Follicular lymphoma grade III, unspecified, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8228",
     "DESCRIPTOR": "Follicular lymphoma grade III, unspecified, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8229",
     "DESCRIPTOR": "Follicular lymphoma grade III, unspecified, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8230",
     "DESCRIPTOR": "Follicular lymphoma grade IIIa, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8231",
     "DESCRIPTOR": "Follicular lymphoma grade IIIa, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8232",
     "DESCRIPTOR": "Follicular lymphoma grade IIIa, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8233",
     "DESCRIPTOR": "Follicular lymphoma grade IIIa, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8234",
     "DESCRIPTOR": "Follicular lymphoma grade IIIa, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8235",
     "DESCRIPTOR": "Follicular lymphoma grade IIIa, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8236",
     "DESCRIPTOR": "Follicular lymphoma grade IIIa, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8237",
     "DESCRIPTOR": "Follicular lymphoma grade IIIa, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8238",
     "DESCRIPTOR": "Follicular lymphoma grade IIIa, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8239",
     "DESCRIPTOR": "Follicular lymphoma grade IIIa, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8240",
     "DESCRIPTOR": "Follicular lymphoma grade IIIb, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8241",
     "DESCRIPTOR": "Follicular lymphoma grade IIIb, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8242",
     "DESCRIPTOR": "Follicular lymphoma grade IIIb, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8243",
     "DESCRIPTOR": "Follicular lymphoma grade IIIb, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8244",
     "DESCRIPTOR": "Follicular lymphoma grade IIIb, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8245",
     "DESCRIPTOR": "Follicular lymphoma grade IIIb, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8246",
     "DESCRIPTOR": "Follicular lymphoma grade IIIb, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8247",
     "DESCRIPTOR": "Follicular lymphoma grade IIIb, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8248",
     "DESCRIPTOR": "Follicular lymphoma grade IIIb, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8249",
     "DESCRIPTOR": "Follicular lymphoma grade IIIb, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8250",
     "DESCRIPTOR": "Diffuse follicle center lymphoma, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8251",
     "DESCRIPTOR": "Diffuse follicle center lymphoma, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8252",
     "DESCRIPTOR": "Diffuse follicle center lymphoma, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8253",
     "DESCRIPTOR": "Diffuse follicle center lymphoma, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8254",
     "DESCRIPTOR": "Diffuse follicle center lymphoma, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8255",
     "DESCRIPTOR": "Diffuse follicle center lymphoma, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8256",
     "DESCRIPTOR": "Diffuse follicle center lymphoma, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8257",
     "DESCRIPTOR": "Diffuse follicle center lymphoma, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8258",
     "DESCRIPTOR": "Diffuse follicle center lymphoma, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8259",
     "DESCRIPTOR": "Diffuse follicle center lymphoma, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8260",
     "DESCRIPTOR": "Cutaneous follicle center lymphoma, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8261",
     "DESCRIPTOR": "Cutaneous follicle center lymphoma, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8262",
     "DESCRIPTOR": "Cutaneous follicle center lymphoma, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8263",
     "DESCRIPTOR": "Cutaneous follicle center lymphoma, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8264",
     "DESCRIPTOR": "Cutaneous follicle center lymphoma, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8265",
     "DESCRIPTOR": "Cutaneous follicle center lymphoma, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8266",
     "DESCRIPTOR": "Cutaneous follicle center lymphoma, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8267",
     "DESCRIPTOR": "Cutaneous follicle center lymphoma, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8268",
     "DESCRIPTOR": "Cutaneous follicle center lymphoma, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8269",
     "DESCRIPTOR": "Cutaneous follicle center lymphoma, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8280",
     "DESCRIPTOR": "Other types of follicular lymphoma, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8281",
     "DESCRIPTOR": "Other types of follicular lymphoma, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8282",
     "DESCRIPTOR": "Other types of follicular lymphoma, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8283",
     "DESCRIPTOR": "Other types of follicular lymphoma, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8284",
     "DESCRIPTOR": "Other types of follicular lymphoma, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8285",
     "DESCRIPTOR": "Other types of follicular lymphoma, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8286",
     "DESCRIPTOR": "Other types of follicular lymphoma, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8287",
     "DESCRIPTOR": "Other types of follicular lymphoma, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8288",
     "DESCRIPTOR": "Other types of follicular lymphoma, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8289",
     "DESCRIPTOR": "Other types of follicular lymphoma, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8290",
     "DESCRIPTOR": "Follicular lymphoma, unspecified, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8291",
     "DESCRIPTOR": "Follicular lymphoma, unspecified, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8292",
     "DESCRIPTOR": "Follicular lymphoma, unspecified, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8293",
     "DESCRIPTOR": "Follicular lymphoma, unspecified, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8294",
     "DESCRIPTOR": "Follicular lymphoma, unspecified, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8295",
     "DESCRIPTOR": "Follicular lymphoma, unspecified, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8296",
     "DESCRIPTOR": "Follicular lymphoma, unspecified, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8297",
     "DESCRIPTOR": "Follicular lymphoma, unspecified, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8298",
     "DESCRIPTOR": "Follicular lymphoma, unspecified, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8299",
     "DESCRIPTOR": "Follicular lymphoma, unspecified, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8300",
     "DESCRIPTOR": "Small cell B-cell lymphoma, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8301",
     "DESCRIPTOR": "Small cell B-cell lymphoma, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8302",
     "DESCRIPTOR": "Small cell B-cell lymphoma, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8303",
     "DESCRIPTOR": "Small cell B-cell lymphoma, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8304",
     "DESCRIPTOR": "Small cell B-cell lymphoma, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8305",
     "DESCRIPTOR": "Small cell B-cell lymphoma, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8306",
     "DESCRIPTOR": "Small cell B-cell lymphoma, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8307",
     "DESCRIPTOR": "Small cell B-cell lymphoma, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8308",
     "DESCRIPTOR": "Small cell B-cell lymphoma, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8309",
     "DESCRIPTOR": "Small cell B-cell lymphoma, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8310",
     "DESCRIPTOR": "Mantle cell lymphoma, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8311",
     "DESCRIPTOR": "Mantle cell lymphoma, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8312",
     "DESCRIPTOR": "Mantle cell lymphoma, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8313",
     "DESCRIPTOR": "Mantle cell lymphoma, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8314",
     "DESCRIPTOR": "Mantle cell lymphoma, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8315",
     "DESCRIPTOR": "Mantle cell lymphoma, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8316",
     "DESCRIPTOR": "Mantle cell lymphoma, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8317",
     "DESCRIPTOR": "Mantle cell lymphoma, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8318",
     "DESCRIPTOR": "Mantle cell lymphoma, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8319",
     "DESCRIPTOR": "Mantle cell lymphoma, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8330",
     "DESCRIPTOR": "Diffuse large B-cell lymphoma, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8331",
     "DESCRIPTOR": "Diffuse large B-cell lymphoma, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8332",
     "DESCRIPTOR": "Diffuse large B-cell lymphoma, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8333",
     "DESCRIPTOR": "Diffuse large B-cell lymphoma, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8334",
     "DESCRIPTOR": "Diffuse large B-cell lymphoma, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8335",
     "DESCRIPTOR": "Diffuse large B-cell lymphoma, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8336",
     "DESCRIPTOR": "Diffuse large B-cell lymphoma, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8337",
     "DESCRIPTOR": "Diffuse large B-cell lymphoma, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8338",
     "DESCRIPTOR": "Diffuse large B-cell lymphoma, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8339",
     "DESCRIPTOR": "Diffuse large B-cell lymphoma, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8350",
     "DESCRIPTOR": "Lymphoblastic (diffuse) lymphoma, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8351",
     "DESCRIPTOR": "Lymphoblastic (diffuse) lymphoma, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8352",
     "DESCRIPTOR": "Lymphoblastic (diffuse) lymphoma, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8353",
     "DESCRIPTOR": "Lymphoblastic (diffuse) lymphoma, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8354",
     "DESCRIPTOR": "Lymphoblastic (diffuse) lymphoma, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8355",
     "DESCRIPTOR": "Lymphoblastic (diffuse) lymphoma, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8356",
     "DESCRIPTOR": "Lymphoblastic (diffuse) lymphoma, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8357",
     "DESCRIPTOR": "Lymphoblastic (diffuse) lymphoma, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8358",
     "DESCRIPTOR": "Lymphoblastic (diffuse) lymphoma, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8359",
     "DESCRIPTOR": "Lymphoblastic (diffuse) lymphoma, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8370",
     "DESCRIPTOR": "Burkitt lymphoma, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8371",
     "DESCRIPTOR": "Burkitt lymphoma, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8372",
     "DESCRIPTOR": "Burkitt lymphoma, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8373",
     "DESCRIPTOR": "Burkitt lymphoma, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8374",
     "DESCRIPTOR": "Burkitt lymphoma, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8375",
     "DESCRIPTOR": "Burkitt lymphoma, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8376",
     "DESCRIPTOR": "Burkitt lymphoma, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8377",
     "DESCRIPTOR": "Burkitt lymphoma, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8378",
     "DESCRIPTOR": "Burkitt lymphoma, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8379",
     "DESCRIPTOR": "Burkitt lymphoma, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8380",
     "DESCRIPTOR": "Other non-follicular lymphoma, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8381",
     "DESCRIPTOR": "Other non-follicular lymphoma, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8382",
     "DESCRIPTOR": "Other non-follicular lymphoma, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8383",
     "DESCRIPTOR": "Other non-follicular lymphoma, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8384",
     "DESCRIPTOR": "Other non-follicular lymphoma, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8385",
     "DESCRIPTOR": "Other non-follicular lymphoma, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8386",
     "DESCRIPTOR": "Other non-follicular lymphoma, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8387",
     "DESCRIPTOR": "Other non-follicular lymphoma, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8388",
     "DESCRIPTOR": "Other non-follicular lymphoma, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8389",
     "DESCRIPTOR": "Other non-follicular lymphoma, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8390",
     "DESCRIPTOR": "Non-follicular (diffuse) lymphoma, unspecified, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8391",
     "DESCRIPTOR": "Non-follicular (diffuse) lymphoma, unspecified, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8392",
     "DESCRIPTOR": "Non-follicular (diffuse) lymphoma, unspecified, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8393",
     "DESCRIPTOR": "Non-follicular (diffuse) lymphoma, unspecified, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8394",
     "DESCRIPTOR": "Non-follicular (diffuse) lymphoma, unspecified, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8395",
     "DESCRIPTOR": "Non-follicular (diffuse) lymphoma, unspecified, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8396",
     "DESCRIPTOR": "Non-follicular (diffuse) lymphoma, unspecified, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8397",
     "DESCRIPTOR": "Non-follicular (diffuse) lymphoma, unspecified, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8398",
     "DESCRIPTOR": "Non-follicular (diffuse) lymphoma, unspecified, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8399",
     "DESCRIPTOR": "Non-follicular (diffuse) lymphoma, unspecified, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8400",
     "DESCRIPTOR": "Mycosis fungoides, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8401",
     "DESCRIPTOR": "Mycosis fungoides, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8402",
     "DESCRIPTOR": "Mycosis fungoides, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8403",
     "DESCRIPTOR": "Mycosis fungoides, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8404",
     "DESCRIPTOR": "Mycosis fungoides, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8405",
     "DESCRIPTOR": "Mycosis fungoides, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8406",
     "DESCRIPTOR": "Mycosis fungoides, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8407",
     "DESCRIPTOR": "Mycosis fungoides, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8408",
     "DESCRIPTOR": "Mycosis fungoides, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8409",
     "DESCRIPTOR": "Mycosis fungoides, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8410",
     "DESCRIPTOR": "Sezary disease, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8411",
     "DESCRIPTOR": "Sezary disease, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8412",
     "DESCRIPTOR": "Sezary disease, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8413",
     "DESCRIPTOR": "Sezary disease, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8414",
     "DESCRIPTOR": "Sezary disease, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8415",
     "DESCRIPTOR": "Sezary disease, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8416",
     "DESCRIPTOR": "Sezary disease, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8417",
     "DESCRIPTOR": "Sezary disease, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8418",
     "DESCRIPTOR": "Sezary disease, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8419",
     "DESCRIPTOR": "Sezary disease, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8440",
     "DESCRIPTOR": "Peripheral T-cell lymphoma, not classified, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8441",
     "DESCRIPTOR": "Peripheral T-cell lymphoma, not classified, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8442",
     "DESCRIPTOR": "Peripheral T-cell lymphoma, not classified, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8443",
     "DESCRIPTOR": "Peripheral T-cell lymphoma, not classified, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8444",
     "DESCRIPTOR": "Peripheral T-cell lymphoma, not classified, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8445",
     "DESCRIPTOR": "Peripheral T-cell lymphoma, not classified, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8446",
     "DESCRIPTOR": "Peripheral T-cell lymphoma, not classified, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8447",
     "DESCRIPTOR": "Peripheral T-cell lymphoma, not classified, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8448",
     "DESCRIPTOR": "Peripheral T-cell lymphoma, not classified, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8449",
     "DESCRIPTOR": "Peripheral T-cell lymphoma, not classified, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8460",
     "DESCRIPTOR": "Anaplastic large cell lymphoma, ALK-positive, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8461",
     "DESCRIPTOR": "Anaplastic large cell lymphoma, ALK-positive, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8462",
     "DESCRIPTOR": "Anaplastic large cell lymphoma, ALK-positive, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8463",
     "DESCRIPTOR": "Anaplastic large cell lymphoma, ALK-positive, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8464",
     "DESCRIPTOR": "Anaplastic large cell lymphoma, ALK-positive, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8465",
     "DESCRIPTOR": "Anaplastic large cell lymphoma, ALK-positive, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8466",
     "DESCRIPTOR": "Anaplastic large cell lymphoma, ALK-positive, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8467",
     "DESCRIPTOR": "Anaplastic large cell lymphoma, ALK-positive, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8468",
     "DESCRIPTOR": "Anaplastic large cell lymphoma, ALK-positive, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8469",
     "DESCRIPTOR": "Anaplastic large cell lymphoma, ALK-positive, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8470",
     "DESCRIPTOR": "Anaplastic large cell lymphoma, ALK-negative, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8471",
     "DESCRIPTOR": "Anaplastic large cell lymphoma, ALK-negative, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8472",
     "DESCRIPTOR": "Anaplastic large cell lymphoma, ALK-negative, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8473",
     "DESCRIPTOR": "Anaplastic large cell lymphoma, ALK-negative, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8474",
     "DESCRIPTOR": "Anaplastic large cell lymphoma, ALK-negative, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8475",
     "DESCRIPTOR": "Anaplastic large cell lymphoma, ALK-negative, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8476",
     "DESCRIPTOR": "Anaplastic large cell lymphoma, ALK-negative, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8477",
     "DESCRIPTOR": "Anaplastic large cell lymphoma, ALK-negative, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8478",
     "DESCRIPTOR": "Anaplastic large cell lymphoma, ALK-negative, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8479",
     "DESCRIPTOR": "Anaplastic large cell lymphoma, ALK-negative, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8490",
     "DESCRIPTOR": "Mature T/NK-cell lymphomas, unspecified, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8491",
     "DESCRIPTOR": "Mature T/NK-cell lymphomas, unspecified, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8492",
     "DESCRIPTOR": "Mature T/NK-cell lymphomas, unspecified, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8493",
     "DESCRIPTOR": "Mature T/NK-cell lymphomas, unspecified, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8494",
     "DESCRIPTOR": "Mature T/NK-cell lymphomas, unspecified, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8495",
     "DESCRIPTOR": "Mature T/NK-cell lymphomas, unspecified, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8496",
     "DESCRIPTOR": "Mature T/NK-cell lymphomas, unspecified, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8497",
     "DESCRIPTOR": "Mature T/NK-cell lymphomas, unspecified, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8498",
     "DESCRIPTOR": "Mature T/NK-cell lymphomas, unspecified, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8499",
     "DESCRIPTOR": "Mature T/NK-cell lymphomas, unspecified, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C84A0",
     "DESCRIPTOR": "Cutaneous T-cell lymphoma, unspecified, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C84A1",
     "DESCRIPTOR": "Cutaneous T-cell lymphoma, unspecified lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C84A2",
     "DESCRIPTOR": "Cutaneous T-cell lymphoma, unspecified, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C84A3",
     "DESCRIPTOR": "Cutaneous T-cell lymphoma, unspecified, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C84A4",
     "DESCRIPTOR": "Cutaneous T-cell lymphoma, unspecified, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C84A5",
     "DESCRIPTOR": "Cutaneous T-cell lymphoma, unspecified, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C84A6",
     "DESCRIPTOR": "Cutaneous T-cell lymphoma, unspecified, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C84A7",
     "DESCRIPTOR": "Cutaneous T-cell lymphoma, unspecified, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C84A8",
     "DESCRIPTOR": "Cutaneous T-cell lymphoma, unspecified, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C84A9",
     "DESCRIPTOR": "Cutaneous T-cell lymphoma, unspecified, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C84Z0",
     "DESCRIPTOR": "Other mature T/NK-cell lymphomas, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C84Z1",
     "DESCRIPTOR": "Other mature T/NK-cell lymphomas, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C84Z2",
     "DESCRIPTOR": "Other mature T/NK-cell lymphomas, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C84Z3",
     "DESCRIPTOR": "Other mature T/NK-cell lymphomas, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C84Z4",
     "DESCRIPTOR": "Other mature T/NK-cell lymphomas, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C84Z5",
     "DESCRIPTOR": "Other mature T/NK-cell lymphomas, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C84Z6",
     "DESCRIPTOR": "Other mature T/NK-cell lymphomas, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C84Z7",
     "DESCRIPTOR": "Other mature T/NK-cell lymphomas, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C84Z8",
     "DESCRIPTOR": "Other mature T/NK-cell lymphomas, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C84Z9",
     "DESCRIPTOR": "Other mature T/NK-cell lymphomas, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8510",
     "DESCRIPTOR": "Unspecified B-cell lymphoma, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8511",
     "DESCRIPTOR": "Unspecified B-cell lymphoma, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8512",
     "DESCRIPTOR": "Unspecified B-cell lymphoma, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8513",
     "DESCRIPTOR": "Unspecified B-cell lymphoma, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8514",
     "DESCRIPTOR": "Unspecified B-cell lymphoma, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8515",
     "DESCRIPTOR": "Unspecified B-cell lymphoma, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8516",
     "DESCRIPTOR": "Unspecified B-cell lymphoma, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8517",
     "DESCRIPTOR": "Unspecified B-cell lymphoma, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8518",
     "DESCRIPTOR": "Unspecified B-cell lymphoma, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8519",
     "DESCRIPTOR": "Unspecified B-cell lymphoma, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8520",
     "DESCRIPTOR": "Mediastinal (thymic) large B-cell lymphoma, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8521",
     "DESCRIPTOR": "Mediastinal (thymic) large B-cell lymphoma, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8522",
     "DESCRIPTOR": "Mediastinal (thymic) large B-cell lymphoma, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8523",
     "DESCRIPTOR": "Mediastinal (thymic) large B-cell lymphoma, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8524",
     "DESCRIPTOR": "Mediastinal (thymic) large B-cell lymphoma, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8525",
     "DESCRIPTOR": "Mediastinal (thymic) large B-cell lymphoma, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8526",
     "DESCRIPTOR": "Mediastinal (thymic) large B-cell lymphoma, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8527",
     "DESCRIPTOR": "Mediastinal (thymic) large B-cell lymphoma, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8528",
     "DESCRIPTOR": "Mediastinal (thymic) large B-cell lymphoma, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8529",
     "DESCRIPTOR": "Mediastinal (thymic) large B-cell lymphoma, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8580",
     "DESCRIPTOR": "Other specified types of non-Hodgkin lymphoma, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8581",
     "DESCRIPTOR": "Other specified types of non-Hodgkin lymphoma, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8582",
     "DESCRIPTOR": "Other specified types of non-Hodgkin lymphoma, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8583",
     "DESCRIPTOR": "Other specified types of non-Hodgkin lymphoma, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8584",
     "DESCRIPTOR": "Other specified types of non-Hodgkin lymphoma, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8585",
     "DESCRIPTOR": "Other specified types of non-Hodgkin lymphoma, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8586",
     "DESCRIPTOR": "Other specified types of non-Hodgkin lymphoma, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8587",
     "DESCRIPTOR": "Other specified types of non-Hodgkin lymphoma, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8588",
     "DESCRIPTOR": "Other specified types of non-Hodgkin lymphoma, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8589",
     "DESCRIPTOR": "Other specified types of non-Hodgkin lymphoma, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8590",
     "DESCRIPTOR": "Non-Hodgkin lymphoma, unspecified, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8591",
     "DESCRIPTOR": "Non-Hodgkin lymphoma, unspecified, lymph nodes of head, face, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8592",
     "DESCRIPTOR": "Non-Hodgkin lymphoma, unspecified, intrathoracic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8593",
     "DESCRIPTOR": "Non-Hodgkin lymphoma, unspecified, intra-abdominal lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8594",
     "DESCRIPTOR": "Non-Hodgkin lymphoma, unspecified, lymph nodes of axilla and upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8595",
     "DESCRIPTOR": "Non-Hodgkin lymphoma, unspecified, lymph nodes of inguinal region and lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8596",
     "DESCRIPTOR": "Non-Hodgkin lymphoma, unspecified, intrapelvic lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8597",
     "DESCRIPTOR": "Non-Hodgkin lymphoma, unspecified, spleen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8598",
     "DESCRIPTOR": "Non-Hodgkin lymphoma, unspecified, lymph nodes of multiple sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C8599",
     "DESCRIPTOR": "Non-Hodgkin lymphoma, unspecified, extranodal and solid organ sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C860",
     "DESCRIPTOR": "Extranodal NK/T-cell lymphoma, nasal type",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C861",
     "DESCRIPTOR": "Hepatosplenic T-cell lymphoma",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C862",
     "DESCRIPTOR": "Enteropathy-type (intestinal) T-cell lymphoma",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C863",
     "DESCRIPTOR": "Subcutaneous panniculitis-like T-cell lymphoma",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C864",
     "DESCRIPTOR": "Blastic NK-cell lymphoma",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C865",
     "DESCRIPTOR": "Angioimmunoblastic T-cell lymphoma",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C866",
     "DESCRIPTOR": "Primary cutaneous CD30-positive T-cell proliferations",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C882",
     "DESCRIPTOR": "Heavy chain disease",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C883",
     "DESCRIPTOR": "Immunoproliferative small intestinal disease",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C884",
     "DESCRIPTOR": "Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lymphoma]",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C888",
     "DESCRIPTOR": "Other malignant immunoproliferative diseases",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C889",
     "DESCRIPTOR": "Malignant immunoproliferative disease, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9000",
     "DESCRIPTOR": "Multiple myeloma not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9001",
     "DESCRIPTOR": "Multiple myeloma in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9002",
     "DESCRIPTOR": "Multiple myeloma in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9010",
     "DESCRIPTOR": "Plasma cell leukemia not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9011",
     "DESCRIPTOR": "Plasma cell leukemia in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9012",
     "DESCRIPTOR": "Plasma cell leukemia in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9020",
     "DESCRIPTOR": "Extramedullary plasmacytoma not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9021",
     "DESCRIPTOR": "Extramedullary plasmacytoma in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9022",
     "DESCRIPTOR": "Extramedullary plasmacytoma in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9030",
     "DESCRIPTOR": "Solitary plasmacytoma not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9031",
     "DESCRIPTOR": "Solitary plasmacytoma in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9032",
     "DESCRIPTOR": "Solitary plasmacytoma in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9100",
     "DESCRIPTOR": "Acute lymphoblastic leukemia not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9101",
     "DESCRIPTOR": "Acute lymphoblastic leukemia, in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9102",
     "DESCRIPTOR": "Acute lymphoblastic leukemia, in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9110",
     "DESCRIPTOR": "Chronic lymphocytic leukemia of B-cell type not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9111",
     "DESCRIPTOR": "Chronic lymphocytic leukemia of B-cell type in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9112",
     "DESCRIPTOR": "Chronic lymphocytic leukemia of B-cell type in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9130",
     "DESCRIPTOR": "Prolymphocytic leukemia of B-cell type not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9131",
     "DESCRIPTOR": "Prolymphocytic leukemia of B-cell type, in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9132",
     "DESCRIPTOR": "Prolymphocytic leukemia of B-cell type, in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9140",
     "DESCRIPTOR": "Hairy cell leukemia not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9141",
     "DESCRIPTOR": "Hairy cell leukemia, in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9142",
     "DESCRIPTOR": "Hairy cell leukemia, in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9150",
     "DESCRIPTOR": "Adult T-cell lymphoma/leukemia (HTLV-1-associated) not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9151",
     "DESCRIPTOR": "Adult T-cell lymphoma/leukemia (HTLV-1-associated), in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9152",
     "DESCRIPTOR": "Adult T-cell lymphoma/leukemia (HTLV-1-associated), in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9160",
     "DESCRIPTOR": "Prolymphocytic leukemia of T-cell type not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9161",
     "DESCRIPTOR": "Prolymphocytic leukemia of T-cell type, in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9162",
     "DESCRIPTOR": "Prolymphocytic leukemia of T-cell type, in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9190",
     "DESCRIPTOR": "Lymphoid leukemia, unspecified not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9191",
     "DESCRIPTOR": "Lymphoid leukemia, unspecified, in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9192",
     "DESCRIPTOR": "Lymphoid leukemia, unspecified, in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C91A0",
     "DESCRIPTOR": "Mature B-cell leukemia Burkitt-type not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C91A1",
     "DESCRIPTOR": "Mature B-cell leukemia Burkitt-type, in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C91A2",
     "DESCRIPTOR": "Mature B-cell leukemia Burkitt-type, in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C91Z0",
     "DESCRIPTOR": "Other lymphoid leukemia not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C91Z1",
     "DESCRIPTOR": "Other lymphoid leukemia, in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C91Z2",
     "DESCRIPTOR": "Other lymphoid leukemia, in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9200",
     "DESCRIPTOR": "Acute myeloblastic leukemia, not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9201",
     "DESCRIPTOR": "Acute myeloblastic leukemia, in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9202",
     "DESCRIPTOR": "Acute myeloblastic leukemia, in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9210",
     "DESCRIPTOR": "Chronic myeloid leukemia, BCR/ABL-positive, not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9211",
     "DESCRIPTOR": "Chronic myeloid leukemia, BCR/ABL-positive, in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9212",
     "DESCRIPTOR": "Chronic myeloid leukemia, BCR/ABL-positive, in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9220",
     "DESCRIPTOR": "Atypical chronic myeloid leukemia, BCR/ABL-negative, not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9221",
     "DESCRIPTOR": "Atypical chronic myeloid leukemia, BCR/ABL-negative, in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9222",
     "DESCRIPTOR": "Atypical chronic myeloid leukemia, BCR/ABL-negative, in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9230",
     "DESCRIPTOR": "Myeloid sarcoma, not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9231",
     "DESCRIPTOR": "Myeloid sarcoma, in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9232",
     "DESCRIPTOR": "Myeloid sarcoma, in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9240",
     "DESCRIPTOR": "Acute promyelocytic leukemia, not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9241",
     "DESCRIPTOR": "Acute promyelocytic leukemia, in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9242",
     "DESCRIPTOR": "Acute promyelocytic leukemia, in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9250",
     "DESCRIPTOR": "Acute myelomonocytic leukemia, not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9251",
     "DESCRIPTOR": "Acute myelomonocytic leukemia, in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9252",
     "DESCRIPTOR": "Acute myelomonocytic leukemia, in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9260",
     "DESCRIPTOR": "Acute myeloid leukemia with 11q23-abnormality not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9261",
     "DESCRIPTOR": "Acute myeloid leukemia with 11q23-abnormality in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9262",
     "DESCRIPTOR": "Acute myeloid leukemia with 11q23-abnormality in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9290",
     "DESCRIPTOR": "Myeloid leukemia, unspecified, not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9291",
     "DESCRIPTOR": "Myeloid leukemia, unspecified in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9292",
     "DESCRIPTOR": "Myeloid leukemia, unspecified in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C92A0",
     "DESCRIPTOR": "Acute myeloid leukemia with multilineage dysplasia, not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C92A1",
     "DESCRIPTOR": "Acute myeloid leukemia with multilineage dysplasia, in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C92A2",
     "DESCRIPTOR": "Acute myeloid leukemia with multilineage dysplasia, in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C92Z0",
     "DESCRIPTOR": "Other myeloid leukemia not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C92Z1",
     "DESCRIPTOR": "Other myeloid leukemia, in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C92Z2",
     "DESCRIPTOR": "Other myeloid leukemia, in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9300",
     "DESCRIPTOR": "Acute monoblastic/monocytic leukemia, not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9301",
     "DESCRIPTOR": "Acute monoblastic/monocytic leukemia, in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9302",
     "DESCRIPTOR": "Acute monoblastic/monocytic leukemia, in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9310",
     "DESCRIPTOR": "Chronic myelomonocytic leukemia not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9311",
     "DESCRIPTOR": "Chronic myelomonocytic leukemia, in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9312",
     "DESCRIPTOR": "Chronic myelomonocytic leukemia, in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9330",
     "DESCRIPTOR": "Juvenile myelomonocytic leukemia, not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9331",
     "DESCRIPTOR": "Juvenile myelomonocytic leukemia, in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9332",
     "DESCRIPTOR": "Juvenile myelomonocytic leukemia, in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9390",
     "DESCRIPTOR": "Monocytic leukemia, unspecified, not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9391",
     "DESCRIPTOR": "Monocytic leukemia, unspecified in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9392",
     "DESCRIPTOR": "Monocytic leukemia, unspecified in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C93Z0",
     "DESCRIPTOR": "Other monocytic leukemia, not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C93Z1",
     "DESCRIPTOR": "Other monocytic leukemia, in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C93Z2",
     "DESCRIPTOR": "Other monocytic leukemia, in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9400",
     "DESCRIPTOR": "Acute erythroid leukemia, not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9401",
     "DESCRIPTOR": "Acute erythroid leukemia, in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9402",
     "DESCRIPTOR": "Acute erythroid leukemia, in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9420",
     "DESCRIPTOR": "Acute megakaryoblastic leukemia not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9421",
     "DESCRIPTOR": "Acute megakaryoblastic leukemia, in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9422",
     "DESCRIPTOR": "Acute megakaryoblastic leukemia, in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9430",
     "DESCRIPTOR": "Mast cell leukemia not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9431",
     "DESCRIPTOR": "Mast cell leukemia, in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9432",
     "DESCRIPTOR": "Mast cell leukemia, in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9440",
     "DESCRIPTOR": "Acute panmyelosis with myelofibrosis not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9441",
     "DESCRIPTOR": "Acute panmyelosis with myelofibrosis, in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9442",
     "DESCRIPTOR": "Acute panmyelosis with myelofibrosis, in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C946",
     "DESCRIPTOR": "Myelodysplastic disease, not classified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9480",
     "DESCRIPTOR": "Other specified leukemias not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9481",
     "DESCRIPTOR": "Other specified leukemias, in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9482",
     "DESCRIPTOR": "Other specified leukemias, in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9500",
     "DESCRIPTOR": "Acute leukemia of unspecified cell type not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9501",
     "DESCRIPTOR": "Acute leukemia of unspecified cell type, in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9502",
     "DESCRIPTOR": "Acute leukemia of unspecified cell type, in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9510",
     "DESCRIPTOR": "Chronic leukemia of unspecified cell type not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9511",
     "DESCRIPTOR": "Chronic leukemia of unspecified cell type, in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9512",
     "DESCRIPTOR": "Chronic leukemia of unspecified cell type, in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9590",
     "DESCRIPTOR": "Leukemia, unspecified not having achieved remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9591",
     "DESCRIPTOR": "Leukemia, unspecified, in remission",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9592",
     "DESCRIPTOR": "Leukemia, unspecified, in relapse",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C960",
     "DESCRIPTOR": "Multifocal and multisystemic (disseminated) Langerhans-cell histiocytosis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9620",
     "DESCRIPTOR": "Malignant mast cell neoplasm, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9621",
     "DESCRIPTOR": "Aggressive systemic mastocytosis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9622",
     "DESCRIPTOR": "Mast cell sarcoma",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C9629",
     "DESCRIPTOR": "Other malignant mast cell neoplasm",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C964",
     "DESCRIPTOR": "Sarcoma of dendritic cells (accessory cells)",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C969",
     "DESCRIPTOR": "Malignant neoplasm of lymphoid, hematopoietic and related tissue, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C96A",
     "DESCRIPTOR": "Histiocytic sarcoma",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "C96Z",
     "DESCRIPTOR": "Other specified malignant neoplasms of lymphoid, hematopoietic and related tissue",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0000",
     "DESCRIPTOR": "Carcinoma in situ of oral cavity, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0001",
     "DESCRIPTOR": "Carcinoma in situ of labial mucosa and vermilion border",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0002",
     "DESCRIPTOR": "Carcinoma in situ of buccal mucosa",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0003",
     "DESCRIPTOR": "Carcinoma in situ of gingiva and edentulous alveolar ridge",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0004",
     "DESCRIPTOR": "Carcinoma in situ of soft palate",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0005",
     "DESCRIPTOR": "Carcinoma in situ of hard palate",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0006",
     "DESCRIPTOR": "Carcinoma in situ of floor of mouth",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0007",
     "DESCRIPTOR": "Carcinoma in situ of tongue",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0008",
     "DESCRIPTOR": "Carcinoma in situ of pharynx",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D001",
     "DESCRIPTOR": "Carcinoma in situ of esophagus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D002",
     "DESCRIPTOR": "Carcinoma in situ of stomach",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D010",
     "DESCRIPTOR": "Carcinoma in situ of colon",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D011",
     "DESCRIPTOR": "Carcinoma in situ of rectosigmoid junction",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D012",
     "DESCRIPTOR": "Carcinoma in situ of rectum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D013",
     "DESCRIPTOR": "Carcinoma in situ of anus and anal canal",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0140",
     "DESCRIPTOR": "Carcinoma in situ of unspecified part of intestine",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0149",
     "DESCRIPTOR": "Carcinoma in situ of other parts of intestine",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D015",
     "DESCRIPTOR": "Carcinoma in situ of liver, gallbladder and bile ducts",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D017",
     "DESCRIPTOR": "Carcinoma in situ of other specified digestive organs",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D019",
     "DESCRIPTOR": "Carcinoma in situ of digestive organ, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D020",
     "DESCRIPTOR": "Carcinoma in situ of larynx",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D021",
     "DESCRIPTOR": "Carcinoma in situ of trachea",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0220",
     "DESCRIPTOR": "Carcinoma in situ of unspecified bronchus and lung",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0221",
     "DESCRIPTOR": "Carcinoma in situ of right bronchus and lung",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0222",
     "DESCRIPTOR": "Carcinoma in situ of left bronchus and lung",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D023",
     "DESCRIPTOR": "Carcinoma in situ of other parts of respiratory system",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D024",
     "DESCRIPTOR": "Carcinoma in situ of respiratory system, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D030",
     "DESCRIPTOR": "Melanoma in situ of lip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0311",
     "DESCRIPTOR": "Melanoma in situ of right eyelid, including canthus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0312",
     "DESCRIPTOR": "Melanoma in situ of left eyelid, including canthus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0321",
     "DESCRIPTOR": "Melanoma in situ of right ear and external auricular canal",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0322",
     "DESCRIPTOR": "Melanoma in situ of left ear and external auricular canal",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0330",
     "DESCRIPTOR": "Melanoma in situ of unspecified part of face",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0339",
     "DESCRIPTOR": "Melanoma in situ of other parts of face",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D034",
     "DESCRIPTOR": "Melanoma in situ of scalp and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0351",
     "DESCRIPTOR": "Melanoma in situ of anal skin",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0352",
     "DESCRIPTOR": "Melanoma in situ of breast (skin) (soft tissue)",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0359",
     "DESCRIPTOR": "Melanoma in situ of other part of trunk",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0361",
     "DESCRIPTOR": "Melanoma in situ of right upper limb, including shoulder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0362",
     "DESCRIPTOR": "Melanoma in situ of left upper limb, including shoulder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0371",
     "DESCRIPTOR": "Melanoma in situ of right lower limb, including hip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0372",
     "DESCRIPTOR": "Melanoma in situ of left lower limb, including hip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D038",
     "DESCRIPTOR": "Melanoma in situ of other sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D039",
     "DESCRIPTOR": "Melanoma in situ, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D040",
     "DESCRIPTOR": "Carcinoma in situ of skin of lip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0411",
     "DESCRIPTOR": "Carcinoma in situ of skin of right eyelid, including canthus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0412",
     "DESCRIPTOR": "Carcinoma in situ of skin of left eyelid, including canthus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0421",
     "DESCRIPTOR": "Carcinoma in situ of skin of right ear and external auricular canal",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0422",
     "DESCRIPTOR": "Carcinoma in situ of skin of left ear and external auricular canal",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0430",
     "DESCRIPTOR": "Carcinoma in situ of skin of unspecified part of face",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0439",
     "DESCRIPTOR": "Carcinoma in situ of skin of other parts of face",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D044",
     "DESCRIPTOR": "Carcinoma in situ of skin of scalp and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D045",
     "DESCRIPTOR": "Carcinoma in situ of skin of trunk",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0461",
     "DESCRIPTOR": "Carcinoma in situ of skin of right upper limb, including shoulder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0462",
     "DESCRIPTOR": "Carcinoma in situ of skin of left upper limb, including shoulder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0471",
     "DESCRIPTOR": "Carcinoma in situ of skin of right lower limb, including hip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0472",
     "DESCRIPTOR": "Carcinoma in situ of skin of left lower limb, including hip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D048",
     "DESCRIPTOR": "Carcinoma in situ of skin of other sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D049",
     "DESCRIPTOR": "Carcinoma in situ of skin, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0501",
     "DESCRIPTOR": "Lobular carcinoma in situ of right breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0502",
     "DESCRIPTOR": "Lobular carcinoma in situ of left breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0511",
     "DESCRIPTOR": "Intraductal carcinoma in situ of right breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0512",
     "DESCRIPTOR": "Intraductal carcinoma in situ of left breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0581",
     "DESCRIPTOR": "Other specified type of carcinoma in situ of right breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0582",
     "DESCRIPTOR": "Other specified type of carcinoma in situ of left breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0591",
     "DESCRIPTOR": "Unspecified type of carcinoma in situ of right breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0592",
     "DESCRIPTOR": "Unspecified type of carcinoma in situ of left breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D060",
     "DESCRIPTOR": "Carcinoma in situ of endocervix",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D061",
     "DESCRIPTOR": "Carcinoma in situ of exocervix",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D067",
     "DESCRIPTOR": "Carcinoma in situ of other parts of cervix",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D069",
     "DESCRIPTOR": "Carcinoma in situ of cervix, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D070",
     "DESCRIPTOR": "Carcinoma in situ of endometrium",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D071",
     "DESCRIPTOR": "Carcinoma in situ of vulva",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D072",
     "DESCRIPTOR": "Carcinoma in situ of vagina",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0730",
     "DESCRIPTOR": "Carcinoma in situ of unspecified female genital organs",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0739",
     "DESCRIPTOR": "Carcinoma in situ of other female genital organs",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D074",
     "DESCRIPTOR": "Carcinoma in situ of penis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D075",
     "DESCRIPTOR": "Carcinoma in situ of prostate",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0760",
     "DESCRIPTOR": "Carcinoma in situ of unspecified male genital organs",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0761",
     "DESCRIPTOR": "Carcinoma in situ of scrotum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0769",
     "DESCRIPTOR": "Carcinoma in situ of other male genital organs",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D090",
     "DESCRIPTOR": "Carcinoma in situ of bladder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0910",
     "DESCRIPTOR": "Carcinoma in situ of unspecified urinary organ",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0919",
     "DESCRIPTOR": "Carcinoma in situ of other urinary organs",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0921",
     "DESCRIPTOR": "Carcinoma in situ of right eye",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D0922",
     "DESCRIPTOR": "Carcinoma in situ of left eye",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D093",
     "DESCRIPTOR": "Carcinoma in situ of thyroid and other endocrine glands",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D098",
     "DESCRIPTOR": "Carcinoma in situ of other specified sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D099",
     "DESCRIPTOR": "Carcinoma in situ, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D100",
     "DESCRIPTOR": "Benign neoplasm of lip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D101",
     "DESCRIPTOR": "Benign neoplasm of tongue",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D102",
     "DESCRIPTOR": "Benign neoplasm of floor of mouth",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D1030",
     "DESCRIPTOR": "Benign neoplasm of unspecified part of mouth",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D1039",
     "DESCRIPTOR": "Benign neoplasm of other parts of mouth",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D104",
     "DESCRIPTOR": "Benign neoplasm of tonsil",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D105",
     "DESCRIPTOR": "Benign neoplasm of other parts of oropharynx",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D106",
     "DESCRIPTOR": "Benign neoplasm of nasopharynx",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D107",
     "DESCRIPTOR": "Benign neoplasm of hypopharynx",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D109",
     "DESCRIPTOR": "Benign neoplasm of pharynx, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D110",
     "DESCRIPTOR": "Benign neoplasm of parotid gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D117",
     "DESCRIPTOR": "Benign neoplasm of other major salivary glands",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D119",
     "DESCRIPTOR": "Benign neoplasm of major salivary gland, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D120",
     "DESCRIPTOR": "Benign neoplasm of cecum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D121",
     "DESCRIPTOR": "Benign neoplasm of appendix",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D122",
     "DESCRIPTOR": "Benign neoplasm of ascending colon",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D123",
     "DESCRIPTOR": "Benign neoplasm of transverse colon",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D124",
     "DESCRIPTOR": "Benign neoplasm of descending colon",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D125",
     "DESCRIPTOR": "Benign neoplasm of sigmoid colon",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D126",
     "DESCRIPTOR": "Benign neoplasm of colon, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D127",
     "DESCRIPTOR": "Benign neoplasm of rectosigmoid junction",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D128",
     "DESCRIPTOR": "Benign neoplasm of rectum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D129",
     "DESCRIPTOR": "Benign neoplasm of anus and anal canal",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D130",
     "DESCRIPTOR": "Benign neoplasm of esophagus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D131",
     "DESCRIPTOR": "Benign neoplasm of stomach",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D132",
     "DESCRIPTOR": "Benign neoplasm of duodenum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D1330",
     "DESCRIPTOR": "Benign neoplasm of unspecified part of small intestine",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D1339",
     "DESCRIPTOR": "Benign neoplasm of other parts of small intestine",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D134",
     "DESCRIPTOR": "Benign neoplasm of liver",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D135",
     "DESCRIPTOR": "Benign neoplasm of extrahepatic bile ducts",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D136",
     "DESCRIPTOR": "Benign neoplasm of pancreas",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D137",
     "DESCRIPTOR": "Benign neoplasm of endocrine pancreas",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D139",
     "DESCRIPTOR": "Benign neoplasm of ill-defined sites within the digestive system",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D140",
     "DESCRIPTOR": "Benign neoplasm of middle ear, nasal cavity and accessory sinuses",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D141",
     "DESCRIPTOR": "Benign neoplasm of larynx",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D142",
     "DESCRIPTOR": "Benign neoplasm of trachea",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D1430",
     "DESCRIPTOR": "Benign neoplasm of unspecified bronchus and lung",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D1431",
     "DESCRIPTOR": "Benign neoplasm of right bronchus and lung",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D1432",
     "DESCRIPTOR": "Benign neoplasm of left bronchus and lung",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D144",
     "DESCRIPTOR": "Benign neoplasm of respiratory system, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D150",
     "DESCRIPTOR": "Benign neoplasm of thymus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D151",
     "DESCRIPTOR": "Benign neoplasm of heart",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D152",
     "DESCRIPTOR": "Benign neoplasm of mediastinum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D157",
     "DESCRIPTOR": "Benign neoplasm of other specified intrathoracic organs",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D159",
     "DESCRIPTOR": "Benign neoplasm of intrathoracic organ, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D1601",
     "DESCRIPTOR": "Benign neoplasm of scapula and long bones of right upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D1602",
     "DESCRIPTOR": "Benign neoplasm of scapula and long bones of left upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D1611",
     "DESCRIPTOR": "Benign neoplasm of short bones of right upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D1612",
     "DESCRIPTOR": "Benign neoplasm of short bones of left upper limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D1621",
     "DESCRIPTOR": "Benign neoplasm of long bones of right lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D1622",
     "DESCRIPTOR": "Benign neoplasm of long bones of left lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D1631",
     "DESCRIPTOR": "Benign neoplasm of short bones of right lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D1632",
     "DESCRIPTOR": "Benign neoplasm of short bones of left lower limb",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D164",
     "DESCRIPTOR": "Benign neoplasm of bones of skull and face",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D165",
     "DESCRIPTOR": "Benign neoplasm of lower jaw bone",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D166",
     "DESCRIPTOR": "Benign neoplasm of vertebral column",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D167",
     "DESCRIPTOR": "Benign neoplasm of ribs, sternum and clavicle",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D168",
     "DESCRIPTOR": "Benign neoplasm of pelvic bones, sacrum and coccyx",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D169",
     "DESCRIPTOR": "Benign neoplasm of bone and articular cartilage, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D170",
     "DESCRIPTOR": "Benign lipomatous neoplasm of skin and subcutaneous tissue of head, face and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D171",
     "DESCRIPTOR": "Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D1721",
     "DESCRIPTOR": "Benign lipomatous neoplasm of skin and subcutaneous tissue of right arm",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D1722",
     "DESCRIPTOR": "Benign lipomatous neoplasm of skin and subcutaneous tissue of left arm",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D1723",
     "DESCRIPTOR": "Benign lipomatous neoplasm of skin and subcutaneous tissue of right leg",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D1724",
     "DESCRIPTOR": "Benign lipomatous neoplasm of skin and subcutaneous tissue of left leg",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D1730",
     "DESCRIPTOR": "Benign lipomatous neoplasm of skin and subcutaneous tissue of unspecified sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D1739",
     "DESCRIPTOR": "Benign lipomatous neoplasm of skin and subcutaneous tissue of other sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D174",
     "DESCRIPTOR": "Benign lipomatous neoplasm of intrathoracic organs",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D175",
     "DESCRIPTOR": "Benign lipomatous neoplasm of intra-abdominal organs",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D176",
     "DESCRIPTOR": "Benign lipomatous neoplasm of spermatic cord",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D1771",
     "DESCRIPTOR": "Benign lipomatous neoplasm of kidney",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D1772",
     "DESCRIPTOR": "Benign lipomatous neoplasm of other genitourinary organ",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D1779",
     "DESCRIPTOR": "Benign lipomatous neoplasm of other sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D179",
     "DESCRIPTOR": "Benign lipomatous neoplasm, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D1800",
     "DESCRIPTOR": "Hemangioma unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D1801",
     "DESCRIPTOR": "Hemangioma of skin and subcutaneous tissue",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D1802",
     "DESCRIPTOR": "Hemangioma of intracranial structures",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D1803",
     "DESCRIPTOR": "Hemangioma of intra-abdominal structures",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D1809",
     "DESCRIPTOR": "Hemangioma of other sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D181",
     "DESCRIPTOR": "Lymphangioma, any site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D190",
     "DESCRIPTOR": "Benign neoplasm of mesothelial tissue of pleura",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D191",
     "DESCRIPTOR": "Benign neoplasm of mesothelial tissue of peritoneum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D197",
     "DESCRIPTOR": "Benign neoplasm of mesothelial tissue of other sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D199",
     "DESCRIPTOR": "Benign neoplasm of mesothelial tissue, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D200",
     "DESCRIPTOR": "Benign neoplasm of soft tissue of retroperitoneum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D201",
     "DESCRIPTOR": "Benign neoplasm of soft tissue of peritoneum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D210",
     "DESCRIPTOR": "Benign neoplasm of connective and other soft tissue of head, face and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2111",
     "DESCRIPTOR": "Benign neoplasm of connective and other soft tissue of right upper limb, including shoulder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2112",
     "DESCRIPTOR": "Benign neoplasm of connective and other soft tissue of left upper limb, including shoulder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2121",
     "DESCRIPTOR": "Benign neoplasm of connective and other soft tissue of right lower limb, including hip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2122",
     "DESCRIPTOR": "Benign neoplasm of connective and other soft tissue of left lower limb, including hip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D213",
     "DESCRIPTOR": "Benign neoplasm of connective and other soft tissue of thorax",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D214",
     "DESCRIPTOR": "Benign neoplasm of connective and other soft tissue of abdomen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D215",
     "DESCRIPTOR": "Benign neoplasm of connective and other soft tissue of pelvis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D216",
     "DESCRIPTOR": "Benign neoplasm of connective and other soft tissue of trunk, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D219",
     "DESCRIPTOR": "Benign neoplasm of connective and other soft tissue, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D220",
     "DESCRIPTOR": "Melanocytic nevi of lip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2211",
     "DESCRIPTOR": "Melanocytic nevi of right eyelid, including canthus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2212",
     "DESCRIPTOR": "Melanocytic nevi of left eyelid, including canthus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2221",
     "DESCRIPTOR": "Melanocytic nevi of right ear and external auricular canal",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2222",
     "DESCRIPTOR": "Melanocytic nevi of left ear and external auricular canal",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2230",
     "DESCRIPTOR": "Melanocytic nevi of unspecified part of face",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2239",
     "DESCRIPTOR": "Melanocytic nevi of other parts of face",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D224",
     "DESCRIPTOR": "Melanocytic nevi of scalp and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D225",
     "DESCRIPTOR": "Melanocytic nevi of trunk",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2261",
     "DESCRIPTOR": "Melanocytic nevi of right upper limb, including shoulder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2262",
     "DESCRIPTOR": "Melanocytic nevi of left upper limb, including shoulder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2271",
     "DESCRIPTOR": "Melanocytic nevi of right lower limb, including hip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2272",
     "DESCRIPTOR": "Melanocytic nevi of left lower limb, including hip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D229",
     "DESCRIPTOR": "Melanocytic nevi, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D230",
     "DESCRIPTOR": "Other benign neoplasm of skin of lip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2311",
     "DESCRIPTOR": "Other benign neoplasm of skin of right eyelid, including canthus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2312",
     "DESCRIPTOR": "Other benign neoplasm of skin of left eyelid, including canthus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2321",
     "DESCRIPTOR": "Other benign neoplasm of skin of right ear and external auricular canal",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2322",
     "DESCRIPTOR": "Other benign neoplasm of skin of left ear and external auricular canal",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2330",
     "DESCRIPTOR": "Other benign neoplasm of skin of unspecified part of face",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2339",
     "DESCRIPTOR": "Other benign neoplasm of skin of other parts of face",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D234",
     "DESCRIPTOR": "Other benign neoplasm of skin of scalp and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D235",
     "DESCRIPTOR": "Other benign neoplasm of skin of trunk",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2361",
     "DESCRIPTOR": "Other benign neoplasm of skin of right upper limb, including shoulder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2362",
     "DESCRIPTOR": "Other benign neoplasm of skin of left upper limb, including shoulder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2371",
     "DESCRIPTOR": "Other benign neoplasm of skin of right lower limb, including hip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2372",
     "DESCRIPTOR": "Other benign neoplasm of skin of left lower limb, including hip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D239",
     "DESCRIPTOR": "Other benign neoplasm of skin, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D241",
     "DESCRIPTOR": "Benign neoplasm of right breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D242",
     "DESCRIPTOR": "Benign neoplasm of left breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D250",
     "DESCRIPTOR": "Submucous leiomyoma of uterus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D251",
     "DESCRIPTOR": "Intramural leiomyoma of uterus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D252",
     "DESCRIPTOR": "Subserosal leiomyoma of uterus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D259",
     "DESCRIPTOR": "Leiomyoma of uterus, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D260",
     "DESCRIPTOR": "Other benign neoplasm of cervix uteri",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D261",
     "DESCRIPTOR": "Other benign neoplasm of corpus uteri",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D267",
     "DESCRIPTOR": "Other benign neoplasm of other parts of uterus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D269",
     "DESCRIPTOR": "Other benign neoplasm of uterus, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D270",
     "DESCRIPTOR": "Benign neoplasm of right ovary",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D271",
     "DESCRIPTOR": "Benign neoplasm of left ovary",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D279",
     "DESCRIPTOR": "Benign neoplasm of unspecified ovary",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D280",
     "DESCRIPTOR": "Benign neoplasm of vulva",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D281",
     "DESCRIPTOR": "Benign neoplasm of vagina",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D282",
     "DESCRIPTOR": "Benign neoplasm of uterine tubes and ligaments",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D287",
     "DESCRIPTOR": "Benign neoplasm of other specified female genital organs",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D289",
     "DESCRIPTOR": "Benign neoplasm of female genital organ, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D290",
     "DESCRIPTOR": "Benign neoplasm of penis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D291",
     "DESCRIPTOR": "Benign neoplasm of prostate",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2920",
     "DESCRIPTOR": "Benign neoplasm of unspecified testis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2921",
     "DESCRIPTOR": "Benign neoplasm of right testis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2922",
     "DESCRIPTOR": "Benign neoplasm of left testis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2930",
     "DESCRIPTOR": "Benign neoplasm of unspecified epididymis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2931",
     "DESCRIPTOR": "Benign neoplasm of right epididymis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D2932",
     "DESCRIPTOR": "Benign neoplasm of left epididymis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D294",
     "DESCRIPTOR": "Benign neoplasm of scrotum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D298",
     "DESCRIPTOR": "Benign neoplasm of other specified male genital organs",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D299",
     "DESCRIPTOR": "Benign neoplasm of male genital organ, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3000",
     "DESCRIPTOR": "Benign neoplasm of unspecified kidney",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3001",
     "DESCRIPTOR": "Benign neoplasm of right kidney",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3002",
     "DESCRIPTOR": "Benign neoplasm of left kidney",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3010",
     "DESCRIPTOR": "Benign neoplasm of unspecified renal pelvis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3011",
     "DESCRIPTOR": "Benign neoplasm of right renal pelvis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3012",
     "DESCRIPTOR": "Benign neoplasm of left renal pelvis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3020",
     "DESCRIPTOR": "Benign neoplasm of unspecified ureter",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3021",
     "DESCRIPTOR": "Benign neoplasm of right ureter",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3022",
     "DESCRIPTOR": "Benign neoplasm of left ureter",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D303",
     "DESCRIPTOR": "Benign neoplasm of bladder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D304",
     "DESCRIPTOR": "Benign neoplasm of urethra",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D308",
     "DESCRIPTOR": "Benign neoplasm of other specified urinary organs",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D309",
     "DESCRIPTOR": "Benign neoplasm of urinary organ, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3101",
     "DESCRIPTOR": "Benign neoplasm of right conjunctiva",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3102",
     "DESCRIPTOR": "Benign neoplasm of left conjunctiva",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3110",
     "DESCRIPTOR": "Benign neoplasm of unspecified cornea",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3111",
     "DESCRIPTOR": "Benign neoplasm of right cornea",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3112",
     "DESCRIPTOR": "Benign neoplasm of left cornea",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3120",
     "DESCRIPTOR": "Benign neoplasm of unspecified retina",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3121",
     "DESCRIPTOR": "Benign neoplasm of right retina",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3122",
     "DESCRIPTOR": "Benign neoplasm of left retina",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3130",
     "DESCRIPTOR": "Benign neoplasm of unspecified choroid",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3131",
     "DESCRIPTOR": "Benign neoplasm of right choroid",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3132",
     "DESCRIPTOR": "Benign neoplasm of left choroid",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3140",
     "DESCRIPTOR": "Benign neoplasm of unspecified ciliary body",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3141",
     "DESCRIPTOR": "Benign neoplasm of right ciliary body",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3142",
     "DESCRIPTOR": "Benign neoplasm of left ciliary body",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3151",
     "DESCRIPTOR": "Benign neoplasm of right lacrimal gland and duct",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3152",
     "DESCRIPTOR": "Benign neoplasm of left lacrimal gland and duct",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3161",
     "DESCRIPTOR": "Benign neoplasm of unspecified site of right orbit",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3162",
     "DESCRIPTOR": "Benign neoplasm of unspecified site of left orbit",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3191",
     "DESCRIPTOR": "Benign neoplasm of unspecified part of right eye",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3192",
     "DESCRIPTOR": "Benign neoplasm of unspecified part of left eye",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D320",
     "DESCRIPTOR": "Benign neoplasm of cerebral meninges",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D321",
     "DESCRIPTOR": "Benign neoplasm of spinal meninges",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D329",
     "DESCRIPTOR": "Benign neoplasm of meninges, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D330",
     "DESCRIPTOR": "Benign neoplasm of brain, supratentorial",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D331",
     "DESCRIPTOR": "Benign neoplasm of brain, infratentorial",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D332",
     "DESCRIPTOR": "Benign neoplasm of brain, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D333",
     "DESCRIPTOR": "Benign neoplasm of cranial nerves",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D334",
     "DESCRIPTOR": "Benign neoplasm of spinal cord",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D337",
     "DESCRIPTOR": "Benign neoplasm of other specified parts of central nervous system",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D339",
     "DESCRIPTOR": "Benign neoplasm of central nervous system, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D34",
     "DESCRIPTOR": "Benign neoplasm of thyroid gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3500",
     "DESCRIPTOR": "Benign neoplasm of unspecified adrenal gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3501",
     "DESCRIPTOR": "Benign neoplasm of right adrenal gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3502",
     "DESCRIPTOR": "Benign neoplasm of left adrenal gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D351",
     "DESCRIPTOR": "Benign neoplasm of parathyroid gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D352",
     "DESCRIPTOR": "Benign neoplasm of pituitary gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D353",
     "DESCRIPTOR": "Benign neoplasm of craniopharyngeal duct",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D354",
     "DESCRIPTOR": "Benign neoplasm of pineal gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D355",
     "DESCRIPTOR": "Benign neoplasm of carotid body",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D356",
     "DESCRIPTOR": "Benign neoplasm of aortic body and other paraganglia",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D357",
     "DESCRIPTOR": "Benign neoplasm of other specified endocrine glands",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D359",
     "DESCRIPTOR": "Benign neoplasm of endocrine gland, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D360",
     "DESCRIPTOR": "Benign neoplasm of lymph nodes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3610",
     "DESCRIPTOR": "Benign neoplasm of peripheral nerves and autonomic nervous system, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3611",
     "DESCRIPTOR": "Benign neoplasm of peripheral nerves and autonomic nervous system of face, head, and neck",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3612",
     "DESCRIPTOR": "Benign neoplasm of peripheral nerves and autonomic nervous system, upper limb, including shoulder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3613",
     "DESCRIPTOR": "Benign neoplasm of peripheral nerves and autonomic nervous system of lower limb, including hip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3614",
     "DESCRIPTOR": "Benign neoplasm of peripheral nerves and autonomic nervous system of thorax",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3615",
     "DESCRIPTOR": "Benign neoplasm of peripheral nerves and autonomic nervous system of abdomen",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3616",
     "DESCRIPTOR": "Benign neoplasm of peripheral nerves and autonomic nervous system of pelvis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3617",
     "DESCRIPTOR": "Benign neoplasm of peripheral nerves and autonomic nervous system of trunk, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D367",
     "DESCRIPTOR": "Benign neoplasm of other specified sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D369",
     "DESCRIPTOR": "Benign neoplasm, unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3701",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of lip",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3702",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of tongue",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D37030",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of the parotid salivary glands",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D37031",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of the sublingual salivary glands",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D37032",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of the submandibular salivary glands",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D37039",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of the major salivary glands, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3704",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of the minor salivary glands",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3705",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of pharynx",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3709",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of other specified sites of the oral cavity",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D371",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of stomach",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D372",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of small intestine",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D373",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of appendix",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D374",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of colon",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D375",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of rectum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D376",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of liver, gallbladder and bile ducts",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D378",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of other specified digestive organs",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D379",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of digestive organ, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D380",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of larynx",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D381",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of trachea, bronchus and lung",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D382",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of pleura",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D383",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of mediastinum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D384",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of thymus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D385",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of other respiratory organs",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D386",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of respiratory organ, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D390",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of uterus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3910",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of unspecified ovary",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3911",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of right ovary",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3912",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of left ovary",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D392",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of placenta",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D398",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of other specified female genital organs",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D399",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of female genital organ, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3A00",
     "DESCRIPTOR": "Benign carcinoid tumor of unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3A010",
     "DESCRIPTOR": "Benign carcinoid tumor of the duodenum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3A011",
     "DESCRIPTOR": "Benign carcinoid tumor of the jejunum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3A012",
     "DESCRIPTOR": "Benign carcinoid tumor of the ileum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3A019",
     "DESCRIPTOR": "Benign carcinoid tumor of the small intestine, unspecified portion",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3A020",
     "DESCRIPTOR": "Benign carcinoid tumor of the appendix",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3A021",
     "DESCRIPTOR": "Benign carcinoid tumor of the cecum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3A022",
     "DESCRIPTOR": "Benign carcinoid tumor of the ascending colon",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3A023",
     "DESCRIPTOR": "Benign carcinoid tumor of the transverse colon",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3A024",
     "DESCRIPTOR": "Benign carcinoid tumor of the descending colon",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3A025",
     "DESCRIPTOR": "Benign carcinoid tumor of the sigmoid colon",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3A026",
     "DESCRIPTOR": "Benign carcinoid tumor of the rectum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3A029",
     "DESCRIPTOR": "Benign carcinoid tumor of the large intestine, unspecified portion",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3A090",
     "DESCRIPTOR": "Benign carcinoid tumor of the bronchus and lung",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3A091",
     "DESCRIPTOR": "Benign carcinoid tumor of the thymus",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3A092",
     "DESCRIPTOR": "Benign carcinoid tumor of the stomach",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3A093",
     "DESCRIPTOR": "Benign carcinoid tumor of the kidney",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3A094",
     "DESCRIPTOR": "Benign carcinoid tumor of the foregut, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3A095",
     "DESCRIPTOR": "Benign carcinoid tumor of the midgut, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3A096",
     "DESCRIPTOR": "Benign carcinoid tumor of the hindgut, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3A098",
     "DESCRIPTOR": "Benign carcinoid tumors of other sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D3A8",
     "DESCRIPTOR": "Other benign neuroendocrine tumors",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D400",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of prostate",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D4010",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of unspecified testis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D4011",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of right testis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D4012",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of left testis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D408",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of other specified male genital organs",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D409",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of male genital organ, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D4100",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of unspecified kidney",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D4101",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of right kidney",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D4102",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of left kidney",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D4110",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of unspecified renal pelvis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D4111",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of right renal pelvis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D4112",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of left renal pelvis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D4120",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of unspecified ureter",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D4121",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of right ureter",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D4122",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of left ureter",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D413",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of urethra",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D414",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of bladder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D418",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of other specified urinary organs",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D419",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of unspecified urinary organ",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D420",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of cerebral meninges",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D421",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of spinal meninges",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D429",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of meninges, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D430",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of brain, supratentorial",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D431",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of brain, infratentorial",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D432",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of brain, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D433",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of cranial nerves",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D434",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of spinal cord",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D438",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of other specified parts of central nervous system",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D439",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of central nervous system, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D440",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of thyroid gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D4410",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of unspecified adrenal gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D4411",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of right adrenal gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D4412",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of left adrenal gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D442",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of parathyroid gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D443",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of pituitary gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D444",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of craniopharyngeal duct",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D445",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of pineal gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D446",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of carotid body",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D447",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of aortic body and other paraganglia",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D449",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of unspecified endocrine gland",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D45",
     "DESCRIPTOR": "Polycythemia vera",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D460",
     "DESCRIPTOR": "Refractory anemia without ring sideroblasts, so stated",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D461",
     "DESCRIPTOR": "Refractory anemia with ring sideroblasts",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D4620",
     "DESCRIPTOR": "Refractory anemia with excess of blasts, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D4621",
     "DESCRIPTOR": "Refractory anemia with excess of blasts 1",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D4622",
     "DESCRIPTOR": "Refractory anemia with excess of blasts 2",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D464",
     "DESCRIPTOR": "Refractory anemia, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D469",
     "DESCRIPTOR": "Myelodysplastic syndrome, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D46A",
     "DESCRIPTOR": "Refractory cytopenia with multilineage dysplasia",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D46B",
     "DESCRIPTOR": "Refractory cytopenia with multilineage dysplasia and ring sideroblasts",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D46C",
     "DESCRIPTOR": "Myelodysplastic syndrome with isolated del(5q) chromosomal abnormality",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D46Z",
     "DESCRIPTOR": "Other myelodysplastic syndromes",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D4701",
     "DESCRIPTOR": "Cutaneous mastocytosis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D4702",
     "DESCRIPTOR": "Systemic mastocytosis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D4709",
     "DESCRIPTOR": "Other mast cell neoplasms of uncertain behavior",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D471",
     "DESCRIPTOR": "Chronic myeloproliferative disease",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D473",
     "DESCRIPTOR": "Essential (hemorrhagic) thrombocythemia",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D479",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of lymphoid, hematopoietic and related tissue, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D47Z1",
     "DESCRIPTOR": "Post-transplant lymphoproliferative disorder (PTLD)",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D47Z9",
     "DESCRIPTOR": "Other specified neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D480",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of bone and articular cartilage",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D481",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of connective and other soft tissue",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D482",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of peripheral nerves and autonomic nervous system",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D483",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of retroperitoneum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D484",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of peritoneum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D485",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of skin",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D4861",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of right breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D4862",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of left breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D487",
     "DESCRIPTOR": "Neoplasm of uncertain behavior of other specified sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D489",
     "DESCRIPTOR": "Neoplasm of uncertain behavior, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D490",
     "DESCRIPTOR": "Neoplasm of unspecified behavior of digestive system",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D491",
     "DESCRIPTOR": "Neoplasm of unspecified behavior of respiratory system",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D492",
     "DESCRIPTOR": "Neoplasm of unspecified behavior of bone, soft tissue, and skin",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D493",
     "DESCRIPTOR": "Neoplasm of unspecified behavior of breast",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D494",
     "DESCRIPTOR": "Neoplasm of unspecified behavior of bladder",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D49511",
     "DESCRIPTOR": "Neoplasm of unspecified behavior of right kidney",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D49512",
     "DESCRIPTOR": "Neoplasm of unspecified behavior of left kidney",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D4959",
     "DESCRIPTOR": "Neoplasm of unspecified behavior of other genitourinary organ",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D496",
     "DESCRIPTOR": "Neoplasm of unspecified behavior of brain",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D497",
     "DESCRIPTOR": "Neoplasm of unspecified behavior of endocrine glands and other parts of nervous system",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D4981",
     "DESCRIPTOR": "Neoplasm of unspecified behavior of retina and choroid",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D4989",
     "DESCRIPTOR": "Neoplasm of unspecified behavior of other specified sites",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "D499",
     "DESCRIPTOR": "Neoplasm of unspecified behavior of unspecified site",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "K317",
     "DESCRIPTOR": "Polyp of stomach and duodenum",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "K635",
     "DESCRIPTOR": "Polyp of colon",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "Q8500",
     "DESCRIPTOR": "Neurofibromatosis, unspecified",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "Q8501",
     "DESCRIPTOR": "Neurofibromatosis, type 1",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "Q8502",
     "DESCRIPTOR": "Neurofibromatosis, type 2",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "Q8503",
     "DESCRIPTOR": "Schwannomatosis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "Q8509",
     "DESCRIPTOR": "Other neurofibromatosis",
     "Yes": "Yes",
-    "Type": "Oncology Treatment DX"
+    "Type": "Oncology Treatment diagnosisCode"
   },
   {
     "ICD_10_CM_DIAGNOSIS": "E1065",
@@ -29586,22 +29586,31 @@ var csv = [
 ]
 
 
-//dx is the diagnosis code entered as a string
+//diagnosisCode is the diagnosis code entered as a string
 //ogObject should always be csv
-//the following function should look up the diagnosis code (variable dx) on the csv object and return an object that lists its keys and their properties
-//if the dx is not on the object, it should return the message "Not a recognized CMS Comorbidity Code"
-//if the dx is not provided, it will return ann empty object
+//the following function should look up the diagnosis code (variable diagnosisCode) on the csv object and return an object that lists its keys and their properties
+//if the diagnosisCode is not on the object, it should return the message "Not a recognized CMS Comorbidity Code"
+//if the diagnosisCode is not provided, it will return ann empty object
 //if the object is not specified, it will return an empty object
 
-function lookupDx(dx, ogObject){
-  var dx = document.getElementById('dx');
-  if(!dx){
+function lookupdiagnosisCode(diagnosisCode, ogObject){
+
+
+  var submitButton = document.getElementById('submitButton')
+
+  console.log(`This is the submit button: ${submitButton}`);
+
+  var clickCapture = function (e) {
+    console.log(e);
+  }
+  // submitButton.addEventListener("click", clickCapture)
+  if(!diagnosisCode){
     return {};
   } else if(!ogObject) {
     return {};
   }
   for(var i = 0; i < ogObject.length; i++){
-    if(dx === ogObject[i]['ICD_10_CM_DIAGNOSIS']){
+    if(diagnosisCode === ogObject[i]['ICD_10_CM_DIAGNOSIS']){
       document.getElementById("ICD_10_CM_DIAGNOSIS").innerHTML = ogObject[i]['ICD_10_CM_DIAGNOSIS'];
       document.getElementById("ICD_10_CM_DIAGNOSIS").innerHTML = ogObject[i]['DESCRIPTOR'];
       document.getElementById("ICD_10_CM_DIAGNOSIS").innerHTML = ogObject[i]['Type'];
@@ -29610,3 +29619,5 @@ function lookupDx(dx, ogObject){
   }
   return 'Not a recognized CMS Comorbidity Code';
 }
+
+lookupdiagnosisCode()
