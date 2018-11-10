@@ -29592,32 +29592,3 @@ var csv = [
 //if the diagnosisCode is not on the object, it should return the message "Not a recognized CMS Comorbidity Code"
 //if the diagnosisCode is not provided, it will return ann empty object
 //if the object is not specified, it will return an empty object
-
-function lookupdiagnosisCode(diagnosisCode, ogObject){
-
-
-  var submitButton = document.getElementById('submitButton')
-
-  console.log(`This is the submit button: ${submitButton}`);
-
-  var clickCapture = function (e) {
-    console.log(e);
-  }
-  // submitButton.addEventListener("click", clickCapture)
-  if(!diagnosisCode){
-    return {};
-  } else if(!ogObject) {
-    return {};
-  }
-  for(var i = 0; i < ogObject.length; i++){
-    if(diagnosisCode === ogObject[i]['ICD_10_CM_DIAGNOSIS']){
-      document.getElementById("ICD_10_CM_DIAGNOSIS").innerHTML = ogObject[i]['ICD_10_CM_DIAGNOSIS'];
-      document.getElementById("ICD_10_CM_DIAGNOSIS").innerHTML = ogObject[i]['DESCRIPTOR'];
-      document.getElementById("ICD_10_CM_DIAGNOSIS").innerHTML = ogObject[i]['Type'];
-
-    }
-  }
-  return 'Not a recognized CMS Comorbidity Code';
-}
-
-lookupdiagnosisCode()

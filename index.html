@@ -6,25 +6,30 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <h1>CMS Comorbidity Checker</h1>
 
-  <h2>CMS Psychiatric Comorbidity Lookup</h2>
-  Enter the diagnosis code (ICD-10):<input type="text" id="dx"><br>
-  <button type="button" name="button" id="submitButton">Submit</button>
+  <h2>Enter your Diagnosis below:</h2>
 
-  <h2>DX Info </h2>
-  <br>
-  <table style="width:400px" id="dx_info">
-    <tr>
-      <th>ICD 10 CM DIAGNOSIS</th>
-      <th>DESCRIPTOR</th>
-      <th>TYPE</th>
-    </tr>
-    <tr>
-      <td id="ICD_10_CM_DIAGNOSIS"></td>
-      <td id="DESCRIPTOR"></td>
-      <td id="Type"></td>
-    </tr>
+  <label for="diagnosis">Input Diagnosis</label>
+  <input id="diagnosis" type="text" name="" value="" placeholder="M869" autofocus>
+
+  <table class="output">
+    <thead>
+      <tr class="labels">
+        ICD-10
+      </tr>
+      <tr class="labels">
+        Descriptor
+      </tr>
+      <tr class="labels">
+        ICD-10
+      </tr>
+    </thead>
+
+
   </table>
+
+
 
   <script src="script.js"></script>
 
