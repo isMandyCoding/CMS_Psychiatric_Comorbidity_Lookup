@@ -1,12 +1,4 @@
-// var FY_2018_Comorbidity_Codes = {
-//    'F70': {
-//     Description: 'Mild intellectual disabilities',
-//     Yes: true,
-//     Type: 'Developmnt Disabily'
-//   },
-//
-//
-// }
+
 
 var csv = [
   {
@@ -29585,6 +29577,7 @@ var csv = [
   }
 ]
 
+// var javaCSV = JSON.parse(csv)
 
 //diagnosisCode is the diagnosis code entered as a string
 //ogObject should always be csv
@@ -29592,3 +29585,40 @@ var csv = [
 //if the diagnosisCode is not on the object, it should return the message "Not a recognized CMS Comorbidity Code"
 //if the diagnosisCode is not provided, it will return ann empty object
 //if the object is not specified, it will return an empty object
+
+var userEnteredDiagnosis = document.querySelector('#diagnosis')
+
+userEnteredDiagnosis.addEventListener("keyup", giveInfo)
+
+function giveInfo (e) {
+  if(e.key === "Enter" &&  userEnteredDiagnosis.value) {
+
+    for (var i = 0; i < csv.length; i++) {
+
+      if(csv[i].ICD_10_CM_DIAGNOSIS === userEnteredDiagnosis.value) {
+        var icd10output = document.getElementById('icd10output');
+        var descriptoroutput = document.getElementById('descriptoroutput');
+        var comorbidityputput = document.getElementById('comorbidityputput');
+        var typeoutput = document.getElementById('typeoutput');
+
+        icd10output.textContent = csv[i].ICD_10_CM_DIAGNOSIS
+        descriptoroutput.textContent = csv[i]["DESCRIPTOR"]
+        comorbidityputput.textContent = csv[i].Yes;
+        typeoutput.textContent = csv[i].Type
+
+      }
+
+    }
+
+      // } else {
+      //   // var icd10output = document.getElementById('icd10output');
+      //   //
+      //   // icd10output.textContent = "this is not a listed CMS Comorbidity"
+      //
+      // }
+
+
+
+    }
+
+  }
